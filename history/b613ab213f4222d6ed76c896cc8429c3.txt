@@ -1,0 +1,863 @@
+:1486029676.377833
+/1. letnik/Raèunalniške komunikacije/Domaèe naloge/1. domaèa naloga - Fizièna plast.pdf:1488715848.8437045
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3/.idea:1482964235.6444638
+/1. letnik/Programiranje 2/Domace_naloge/src:1489661616.5439596
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1/.idea/modules.xml:1482961919.6423028
+/1. letnik/Programiranje 1/Advent/Day 16/.idea/misc.xml:1482167880.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15/main.py:1482436035.5419915
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_popoldan.py:1485806142.813503
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22/.idea:1482673285.1764073
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23/.idea/modules.xml:1482536692.0910316
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/1.txt:1480685838.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3/input.txt:1482964135.1085117
+/1. letnik/Programiranje 2/Domace_naloge/build/classes:1490380766.6260152
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/Naloga 14.iml:1484328771.3859675
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/main.py:1478724450.0
+/1. letnik/Operacijski sistemi/Domaèe naloge/1.domaèa naloga/dn1test.sh:1490030951.4975338
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/.netbeans_update_resources:1489671830.2091315
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 19/main.py:1482239062.5696578
+/1. letnik/Operacijski sistemi/Vaje:1490034077.4724746
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/main.py:1483731186.493911
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/DN03.class:1489671830.073535
+/1. letnik/Matematika/Vaje/av01_matb_1617.pdf:1476811830.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea/Naloga 5.iml:1478091012.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 19/.idea/modules.xml:1482181789.9833536
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 4:1482964832.906787
+/1. letnik/Matematika/Predavanja/02_stevila.pdf:1476811802.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Domaèa naloga/kopiranje niza.txt:1483984544.681745
+/1. letnik/Raèunalniške komunikacije/Domaèe naloge/1. domaèa naloga - Fizièna plast.docx:1488534151.788364
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/main.py:1480159666.19655
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN03.rs:1489671830.151091
+/1. letnik/Programiranje 1/Vaje/Vaje 11/.idea/Vaje 11.iml:1483717163.3834982
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji:1485636733.3261006
+/1. letnik/Matematika/Snov/New Doc 1_6.jpg:1476810730.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/popolnoma_dodatna.py:1476458586.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2:1478023645.6110651
+/1. letnik/Podatkovne baze/Vaje:1489317057.105708
+/1. letnik/Programiranje 1/docs-pdf/howto-ipaddress.pdf:1485731646.0
+/1. letnik/Matematika/Vaje:1477555548.1131313
+/1. letnik/Programiranje 2/Domace_naloge/build:1489671829.9090714
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4/main.py:1481489214.3335636
+/1. letnik/Programiranje 1/docs-pdf:1485731646.0
+/1. letnik/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/workspace.xml:1485620874.5446372
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea/misc.xml:1480159288.332673
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/__pycache__:1484908048.48605
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20/.idea/Day 20.iml:1482247229.122416
+/1. letnik/Uvod v raèunalništvo/Vaje/Vaje 1.pdf:1476812102.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_dopoldan - Rešitve.pdf:1485635214.7767081
+/1. letnik/Programiranje 2/Domace_naloge:1489671829.9090714
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_4.jpg:1476810748.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/workspace.xml:1485611833.2902706
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2/.idea/Day 2.iml:1482962268.2737966
+/1. letnik/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea:1485620874.5935543
+/1. letnik/Programiranje 1/Advent/Day 10/.idea/modules.xml:1482056844.0
+/1. letnik/Uvod v raèunalništvo/Predavanja/uvr01uvod.pdf:1476812048.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_dopoldan - Rešitve s komentarji.pdf:1485634754.8072183
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14:1482533255.3611484
+/1. letnik/Podatkovne baze/Vaje/Vaje 1:1489317057.109708
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN02.rs:1489671830.1170664
+/1. letnik/Programiranje 1/Advent/Day 8/.idea:1485502080.8836796
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10/.idea/workspace.xml:1482620489.0449226
+/1. letnik/Programiranje 1/Advent:1485502081.305773
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/4.txt:1480685838.0
+/1. letnik/Programiranje 2/Domace_naloge/src/domace_naloge/DN05.java:1490380766.4261372
+/1. letnik/Programiranje 1/Vaje/Vaje 8/vreme.txt:1480685210.0
+/1. letnik/Diskretne strukture/Snov/New Doc_19.jpg:1476811308.0
+/1. letnik/Matematika/Snov/New Doc 1_4.jpg:1476810722.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/Guugu Yimithirr - Navodila.pdf:1485637211.29304
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2:1485637272.0457091
+/1. letnik/Operacijski sistemi/Vaje/vaje3-naloge.txt:1489655838.9606953
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/.idea/misc.xml:1476367622.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2/.idea/misc.xml:1481476920.5197122
+/1. letnik/Raèunalniške komunikacije:1489599657.374539
+/1. letnik/Programiranje 1/Advent/Day 9/.idea/workspace.xml:1482089886.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8/.idea:1482621414.3259366
+/1. letnik/Programiranje 1/Advent/Day 7/.idea/Day 7.iml:1481569792.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9:1482075123.7230082
+/1. letnik/Raèunalniška arhitektura/Vaje/Domaèa naloga/najveèje število.txt:1483984622.976507
+/1. letnik/Programiranje 2/Vaje/build/classes/vaje:1490869327.9251482
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/main.py:1480699416.2873046
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7/.idea/modules.xml:1481569636.8139527
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13/.idea/Day 13.iml:1482618263.4961612
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5/main.py:1482967565.2663617
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 18/.idea:1482243812.29326
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22/.idea/Day 22.iml:1482669273.200585
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaje 8/sprotna naloga 8.txt:1481621193.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15/.idea:1482438716.2614849
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea/modules.xml:1483477665.6864052
+/1. letnik/Programiranje 1/Vaje/Vaje 6/.idea/workspace.xml:1481826278.0
+/1. letnik/Programiranje 1/Advent/Day 5/.idea:1485502080.557281
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaje 8:1482263377.8666675
+/1. letnik/Diskretne strukture/Snov/New Doc_13.jpg:1476811288.0
+/1. letnik/Programiranje 1/Vaje/Vaje 7/.idea:1481838241.3399177
+/1. letnik/Programiranje 2/Domace_naloge/src/domace_naloge/DN03.java:1489660555.96481
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/domace_naloge:1490283003.911447
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 18:1482245414.8317258
+/1. letnik/Raèunalniška arhitektura/Predavanja/RA-1O.pdf:1476811916.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/modules.xml:1480608903.0698202
+/1. letnik/Operacijski sistemi:1490034058.6642158
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/obvezna.py:1477379464.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/testi.py:1481920368.0
+/1. letnik/Programiranje 1/Advent/Day 9:1485502080.9136913
+/1. letnik/Programiranje 1/Advent/Day 5:1485502080.5012527
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3/.idea/Day 3.iml:1482963358.6239383
+/1. letnik/Programiranje 2/Vaje/manifest.mf:1489316401.891033
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea/misc.xml:1483477665.6082337
+/1. letnik/Programiranje 1/Advent/Day 10/.idea/workspace.xml:1482062100.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4/.idea/Day 4.iml:1481482461.633014
+/1. letnik/Programiranje 1/docs-pdf/howto-sorting.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent/Day 12/.idea/workspace.xml:1482245528.0
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_9.jpg:1476810766.0
+/1. letnik/Programiranje 1/Advent/Day 4/input.txt:1481482840.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 6:1482263377.8304975
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4/.idea:1478531497.8130965
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25/main.py:1482667000.9513078
+/1. letnik/Programiranje 1/Vaje za izpit/Rekurzija:1485811784.6657248
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 17/.idea:1482801433.067157
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12/.idea/workspace.xml:1482245526.0973375
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6:1481569505.4747176
+/1. letnik/Programiranje 1/Advent/Day 7/.idea:1485502080.8091638
+/1. letnik/Programiranje 1/Vaje/Vaje 10/.idea/misc.xml:1481890800.0
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/private:1490285425.22403
+/1. letnik/Programiranje 1/docs-pdf/howto-pyporting.pdf:1485731646.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/pravilno.txt:1480536948.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_dopoldan - Navodila.pdf:1485635096.9878826
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_dopoldan - Rešitve.pdf:1485635790.2989776
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14/.idea:1482618114.3573346
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20/.idea/modules.xml:1482247199.9128926
+/1. letnik/Programiranje 2/Vaje/nbproject/private/private.properties:1489316402.166227
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/DN04.class:1489672602.2845008
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13:1482719084.0569277
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 3:1478610197.739679
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/Adamovo potomstvo.pdf:1485636883.9195538
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 16/.idea:1482181788.9357994
+/1. letnik/Programiranje 1/Vaje/Vaje 10/.idea/modules.xml:1481890800.0
+/1. letnik/Programiranje 1/Advent/Day 16/.idea/workspace.xml:1482181790.0
+/1. letnik/Raèunalniške komunikacije/Predavanja/1 Fizicna povezavna plast.pdf:1489599662.556834
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_dopoldan.py:1485790194.9670966
+/1. letnik/Programiranje 1/Advent/Day 20/input.txt:1482247252.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti:1485635699.753087
+/1. letnik/Programiranje 1/Vaje/Vaje 11/risar.py:1483460269.4244876
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/input.txt:1481378968.0
+/1. letnik/Programiranje 1/Advent/Day 2/.idea/Day 2.iml:1481476974.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 5/.idea/modules.xml:1481560461.2897682
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 7/sprotna naloga 7.txt:1481016368.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15/.idea/modules.xml:1482433017.2974792
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013:1485810334.530908
+/1. letnik/Programiranje 1/Advent/Day 2/main.py:1481478682.0
+/1. letnik/Programiranje 1/Advent/Day 4/.idea:1485502080.460717
+/1. letnik/Programiranje 1/Domaèe naloge:1485637323.5422256
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8/.idea/workspace.xml:1482621414.2963352
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_10.jpg:1476810768.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2/.idea/modules.xml:1482962170.3038375
+/1. letnik/Programiranje 1/Advent/Day 6:1485502080.5973141
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5/.idea/misc.xml:1482964857.9872277
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12/.idea/Day 12.iml:1482089922.6145594
+/1. letnik/Programiranje 1/Advent/Day 1:1485502080.240731
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/.idea:1478023645.6422694
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/private/configs/DN.properties:1490285425.2396326
+/1. letnik/Programiranje 1/Advent/Day 20/main.py:1482248294.0
+/1. letnik/Programiranje 1/Advent/Day 3/input.txt:1481480042.0
+/1. letnik/Programiranje 1/Advent/Day 16/.idea:1485502081.1096096
+/1. letnik/Diskretne strukture/Predavanja/zakoni_izjavnega_racuna.pdf:1476811662.0
+/1. letnik/Diskretne strukture/Snov/New Doc_5.jpg:1476811258.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3/.idea/misc.xml:1482963348.2922208
+/1. letnik/Programiranje 1/Advent/Day 20/.idea/Day 20.iml:1482247230.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3/.idea/misc.xml:1481480014.2939146
+/1. letnik/Programiranje 2/Vaje/nbproject/private/private.xml:1490622098.7542741
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 16/.idea/modules.xml:1482167879.2277043
+/1. letnik/Matematika/Snov:1477555548.0601065
+/1. letnik/Programiranje 1/Vaje/Vaje 8/.idea/Vaje 8.iml:1481832884.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/6.februar_dopoldan - Navodila.pdf:1485636158.8506238
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 19/.idea/Day 19.iml:1482181812.6836524
+/1. letnik/Programiranje 1/Advent/Day 9/.idea/Day 9.iml:1482067986.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4/extra_dodatna.py:1477658740.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/dodatna.py:1476458082.0
+/1. letnik/Diskretne strukture/Snov/New Doc_2.jpg:1476811246.0
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/9.txt:1480685838.0
+/1. letnik/Raèunalniška arhitektura/Predavanja/RA-2P.pdf:1476811932.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaje 9:1482531809.0720415
+/1. letnik/Programiranje 1/Vaje/Vaje 6:1481838241.3046203
+/1. letnik/Raèunalniška arhitektura/Vaje/Domaèa naloga/Domaèa naloga.rar:1483984644.5453742
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6/.idea/workspace.xml:1481569636.486231
+/1. letnik/Operacijski sistemi/Domaèe naloge/1.domaèa naloga/koder.sh:1490033056.751885
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6/input.txt:1482969684.3618734
+/1. letnik/Programiranje 1/Vaje/Vaje 11/__pycache__/turtle.cpython-35.pyc:1483717249.7145202
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/19. februar_dopoldan - Navodila.pdf:1485636093.1136255
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 18/.idea/modules.xml:1482164176.6192775
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_dopoldan - Navodila.pdf:1485634790.207428
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea:1485706129.8796866
+/1. letnik/Matematika/Vaje/av02_matb_1617.pdf:1476811836.0
+/1. letnik/Raèunalniška arhitektura/Predavanja:1477555548.7881825
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15:1482436229.1687827
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN01.rs:1489671830.1005547
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 4/.idea/modules.xml:1482964235.8945906
+/1. letnik/Programiranje 1/Vaje/Vaje 10:1485502080.0790632
+/1. letnik/Programiranje 1/docs-pdf/howto-functional.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent/Day 18/.idea/misc.xml:1482164178.0
+/1. letnik/Programiranje 1/Vaje/Vaje 3/.idea/Vaje 3.iml:1477653014.0
+/1. letnik/Programiranje 1/Advent/Day 4/.idea/misc.xml:1481482444.0
+/1. letnik/Programiranje 1/Advent/Day 19/.idea/modules.xml:1482181790.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8:1482621250.0282798
+/1. letnik/Programiranje 1/Advent/Day 16/.idea/modules.xml:1482167880.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/Dokumentacija urejanje števil v zbirniku.docx:1483984337.0710952
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/7.txt:1480685838.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Domaèa naloga/Dokumentacija domaèe naloge.pdf:1483983036.5868728
+/1. letnik/Podatkovne baze:1489599151.577208
+/1. letnik/Programiranje 1/Advent/Day 20/.idea/misc.xml:1482247200.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/main.py:1483103758.221092
+/1. letnik/Raèunalniške komunikacije/Predavanja:1489599662.5163052
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4/.idea/workspace.xml:1478026456.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/workspace.xml:1480159287.3204756
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3/.idea/workspace.xml:1482964235.6103265
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/workspace.xml:1483460226.6372359
+/1. letnik/Programiranje 1/Advent/Day 3/.idea/Day 3.iml:1481480030.0
+/1. letnik/Diskretne strukture/Predavanja/dsvsp-predavanja.pdf:1476811598.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea/workspace.xml:1481635368.3386056
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea/modules.xml:1478266626.0
+/1. letnik/Programiranje 2/Vaje/build.xml:1489316399.1574385
+/1. letnik/Programiranje 2/Vaje/src/vaje/Vaje3.java:1490381022.5414765
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2/.idea/modules.xml:1481476920.5644705
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/configs/DN.properties:1490285425.1902454
+/1. letnik/Programiranje 1/Advent/Day 16/.idea/Day 16.iml:1482167892.0
+/1. letnik/Programiranje 1/Vaje/Vaje 9/.idea/workspace.xml:1481838198.0
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/DN01.class:1489671829.940324
+/1. letnik/Osnove verjetnosti in statistike/predavanja.pdf:1489600026.4595978
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10:1482062058.1328137
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/example2.png:1481919618.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1:1482962151.7154758
+/1. letnik/Programiranje 1/Advent/Day 2/.idea/misc.xml:1481476922.0
+/1. letnik/Programiranje 1/Vaje/Vaje 9/.idea/Vaje 9.iml:1481833514.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13/.idea/modules.xml:1482618167.8734972
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/genfiles.properties:1489316767.828144
+/1. letnik/Programiranje 2/Domace_naloge/test:1489671749.0721707
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6/.idea:1483103263.2126436
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2/.idea/misc.xml:1482962170.2500403
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 17/.idea/misc.xml:1482610519.8534684
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea/workspace.xml:1485645289.1684294
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4:1478024326.3196206
+/1. letnik/Programiranje 1/Advent/Day 7/.idea/modules.xml:1481569638.0
+/1. letnik/Diskretne strukture/Snov/New Doc_1.jpg:1476811246.0
+/1. letnik/Matematika/Snov/New Doc 1_1.jpg:1476810714.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20/input.txt:1482266797.3234506
+/1. letnik/Programiranje 2/Vaje/build/classes/Vaje2.class:1489404078.6187165
+/1. letnik/Programiranje 1/Vaje/Vaje 11:1483719657.0790048
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13/.idea/workspace.xml:1482961919.1570876
+/1. letnik/Programiranje 1/Vaje/Vaje 4/.idea/workspace.xml:1478266022.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/test.py:1481461931.6470854
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014:1485724891.2804651
+/1. letnik/Programiranje 1/Advent/Day 4/main.py:1481489216.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8/.idea/misc.xml:1481636571.0088472
+/1. letnik/Programiranje 1/Advent/Day 6/main.py:1481569506.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2/.idea/workspace.xml:1482621615.9414046
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea/modules.xml:1478664774.0
+/1. letnik/Operacijski sistemi/Predavanja/OS2014.pdf:1489599854.3249142
+/1. letnik/Programiranje 1/Advent/Day 18/main.py:1482245416.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/dodatna (1).py:1477054022.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4/main.py:1478024328.0
+/1. letnik/Programiranje 1/Vaje/Vaje 5/.idea/modules.xml:1478866600.0
+/1. letnik/Programiranje 1/docs-pdf/whatsnew.pdf:1485731646.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/Naloga 9.iml:1480608976.3704574
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4/.idea/modules.xml:1481482442.5031133
+/1. letnik/Programiranje 1/Vaje/Vaje 8/.idea/misc.xml:1481832884.0
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/private/private.xml:1490389679.5136986
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6/.idea/modules.xml:1482967705.37948
+/1. letnik/Programiranje 1/Advent/Day 8/.idea/workspace.xml:1482067970.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/Hrèek na kolesu - Navodila.pdf:1485636488.6429217
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4/.idea/misc.xml:1481482442.4102628
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/3.txt:1480685838.0
+/1. letnik/Programiranje 1/Vaje/Vaje 6/.idea/Vaje 6.iml:1481825220.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 19/.idea:1482242385.2730575
+/1. letnik/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil:1483984484.5184157
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4/.idea:1481560460.8109248
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/6.txt:1480685838.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/Naloga 7.iml:1479269683.332574
+/1. letnik/Programiranje 1/Advent/Day 12/.idea/Day 12.iml:1482089924.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea:1483477665.4084928
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea:1485645289.219801
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea:1485611833.321541
+/1. letnik/Programiranje 1/Vaje/Vaje 4/main.py:1478265628.0
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/build-impl.xml:1489316767.8086307
+/1. letnik/Diskretne strukture/Vaje:1477555547.7510273
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea/Naloga 11.iml:1481928179.030193
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 16/main.py:1482169506.5875592
+/1. letnik/Programiranje 1/docs-pdf/library.pdf:1485731646.0
+/1. letnik/Diskretne strukture/Predavanja/izjavni_izrazi.pdf:1476811652.0
+/1. letnik/Programiranje 1:1485808034.0665624
+/1. letnik/Programiranje 2/Vaje/src/vaje:1490624439.2871485
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 5/.idea/misc.xml:1481560461.2536678
+/1. letnik/Diskretne strukture/Snov/New Doc_7.jpg:1476811268.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8/input.txt:1482064860.81
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14/.idea/Day 14.iml:1482438740.2701983
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/__pycache__/risar.cpython-35.pyc:1484908048.485567
+/1. letnik/Diskretne strukture/Snov/New Doc_12.jpg:1476811284.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22/input.txt:1482669295.2674499
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 16/.idea/Day 16.iml:1482167891.5237262
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 3/sprotna naloga 3.txt:1479154950.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5/.idea:1482967704.9598365
+/1. letnik/Programiranje 1/.idea/misc.xml:1485780709.9878886
+/1. letnik/Diskretne strukture/Predavanja:1477555547.1691034
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/.idea/workspace.xml:1477542144.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6/.idea/Day 6.iml:1482967722.548339
+/1. letnik/Programiranje 2/Vaje/build/classes/vaje/Vaje2.rs:1489400446.4315994
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/main.py:1481632498.515747
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6/.idea/misc.xml:1481568047.5663133
+/1. letnik/Programiranje 1/Advent/Day 2/.idea/modules.xml:1481476922.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 17/.idea/workspace.xml:1482801433.040912
+/1. letnik/Programiranje 1/Advent/Day 19:1485502081.2497015
+/1. letnik/Programiranje 1/Vaje/Vaje 3:1478610368.748163
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/example.txt:1481748576.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4/.idea/Naloga 4.iml:1477577092.0
+/1. letnik/Programiranje 1/Vaje/Vaje 8/.idea/modules.xml:1480681136.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12/.idea:1482245526.14761
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21/.idea:1482433016.9611833
+/1. letnik/Programiranje 1/Vaje/Vaje 5/.idea/workspace.xml:1481825132.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9/.idea/modules.xml:1482067969.432328
+/1. letnik/Podatkovne baze/Vaje/Vaje 1/vaje1.sql:1490035703.1808574
+/1. letnik/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/Slovarji in množice.iml:1485611938.975529
+/1. letnik/Programiranje 1/Advent/Day 6/.idea/modules.xml:1481568048.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22:1482671432.40814
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20/.idea:1482609823.5279279
+/1. letnik/Uvod v raèunalništvo/Vaje:1477555549.5542035
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 19/.idea/workspace.xml:1482242385.2175179
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea:1481635368.4154973
+/1. letnik/Programiranje 1/Vaje/Vaje 10/__pycache__:1485502080.083568
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea/workspace.xml:1485706129.8462515
+/1. letnik/Programiranje 1/docs-pdf/howto-logging-cookbook.pdf:1485731646.0
+/1. letnik/Programiranje 1/Vaje/Vaje 4/.idea/misc.xml:1478261870.0
+/1. letnik/Programiranje 1/Vaje/Vaje 8/.idea:1481838241.2111425
+/1. letnik/Diskretne strukture/Snov/New Doc_20.jpg:1476811310.0
+/1. letnik/Programiranje 1/Advent/Day 5/.idea/workspace.xml:1481568048.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 5:1480324281.260208
+/1. letnik/Programiranje 1/Vaje/Vaje 5/.idea/Vaje 5.iml:1481820698.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6/.idea:1481569636.5119543
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea/Naloga 10.iml:1481301194.1142066
+/1. letnik/Uvod v raèunalništvo:1477555549.518201
+/1. letnik/Programiranje 1/.idea:1485940229.4145944
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea:1481301167.027496
+/1. letnik/Diskretne strukture/Snov/New Doc_14.jpg:1476811290.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea/workspace.xml:1483477665.360253
+/1. letnik/Programiranje 1/Vaje/Vaje 10/.idea/workspace.xml:1481895650.0
+/1. letnik/Programiranje 1/docs-pdf/howto-clinic.pdf:1485731646.0
+/1. letnik/Podatkovne baze/Predavanja:1489599551.6968777
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/private/config.properties:1490285446.4420643
+/1. letnik/Raèunalniška arhitektura/Vaje/Domaèa naloga:1483984644.491822
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25/input.txt:1482662926.737395
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7:1481636432.2525594
+/1. letnik/Programiranje 1/Vaje/Vaje 3/.idea/modules.xml:1478261870.0
+/1. letnik/Programiranje 1/Advent/Day 19/.idea/Day 19.iml:1482181814.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti:1485636951.7117898
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija:1485636883.9315631
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/misc.xml:1483719657.4418395
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_2.jpg:1476810750.0
+/1. letnik/Programiranje 1/Advent/Day 10:1485502080.9696982
+/1. letnik/Programiranje 1/Advent/Day 4:1485502080.4007273
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/misc.xml:1482533297.5712934
+/1. letnik/Programiranje 1/Advent/Day 4/.idea/modules.xml:1481482444.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2:1482963179.2920787
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21/.idea/misc.xml:1482384200.2568686
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6/.idea/misc.xml:1482967705.2999475
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21/.idea/modules.xml:1482384200.288139
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6/.idea/modules.xml:1481568047.5976906
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1/.idea/misc.xml:1482961919.6082642
+/1. letnik/Raèunalniška arhitektura/Vaje/armv4t-instruction-set.pdf:1476811946.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 5/sprotna naloga 5 - priprave na preverjanje.txt:1480324256.926649
+/1. letnik/Programiranje 1/Advent/Day 10/.idea:1485502081.0017445
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea:1480608788.509416
+/1. letnik/Diskretne strukture/Predavanja/pravila_sklepanja.pdf:1476811708.0
+/1. letnik/Programiranje 1/Vaje/Vaje 10/.idea:1485502080.068556
+/1. letnik/Programiranje 1/Advent/Day 3/.idea/modules.xml:1481480016.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami:1485636833.9726787
+/1. letnik/Programiranje 1/Advent/Day 18/.idea/modules.xml:1482164178.0
+/1. letnik/Programiranje 1/Vaje/Vaje 9/.idea/modules.xml:1481285438.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode:1485645139.4398642
+/1. letnik/Programiranje 1/docs-pdf/howto-curses.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3/.idea:1481482442.2141237
+/1. letnik/Programiranje 1/Advent/Day 8:1485502080.853166
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3/.idea/modules.xml:1481480014.3390276
+/1. letnik/Programiranje 1/Advent/Day 18/.idea/workspace.xml:1482243814.0
+/1. letnik/Podatkovne baze/Predavanja/PB2017-Relacijski model, formalno poizvedovanje.pdf:1489599347.0281246
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3/.idea/modules.xml:1482963348.3272521
+/1. letnik/Programiranje 1/Vaje/Vaje 4/.idea/Vaje 4.iml:1478261884.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10/.idea/misc.xml:1482056843.016801
+/1. letnik/Programiranje 2/Vaje/nbproject/project.properties:1489316402.1682298
+/1. letnik/Programiranje 1/Advent/Day 8/.idea/modules.xml:1481636572.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5/.idea/Day 5.iml:1482965002.9826286
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/Socialna mreža - navodila.pdf:1485636733.273021
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14/.idea/workspace.xml:1482618114.0796368
+/1. letnik/Programiranje 1/docs-pdf/howto-regex.pdf:1485731646.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje:1485502079.1081367
+/1. letnik/Programiranje 1/Vaje/Vaje 2:1476367400.19112
+/1. letnik/Raèunalniška arhitektura/Vaje:1483466599.862006
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3/input.txt:1481480041.7399535
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10/main.py:1482062058.0978613
+/1. letnik/Diskretne strukture/Vaje/03_dsvsp_1617.pdf:1476811752.0
+/1. letnik/Programiranje 2/Domace_naloge/manifest.mf:1489316680.7491636
+/1. letnik/Matematika/Snov/New Doc 1_2.jpg:1476810716.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/modules.xml:1479269645.0895772
+/1. letnik/Programiranje 1/Vaje/Vaje 10/risar.py:1481890722.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3/.idea/workspace.xml:1481482442.1777496
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_3.jpg:1476810750.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12/.idea/modules.xml:1482089888.0529902
+/1. letnik/Programiranje 1/Advent/Day 1/.idea/misc.xml:1481471562.0
+/1. letnik/Programiranje 2/Vaje:1489400446.3933945
+/1. letnik/Programiranje 1/Vaje/Vaje 8:1481838241.2280908
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9/main.py:1482075123.699226
+/1. letnik/Programiranje 2/Vaje/build/classes/.netbeans_automatic_build:1489400446.4472322
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 1:1478023645.5733047
+/1. letnik/Programiranje 1/Advent/Day 3/.idea/misc.xml:1481480016.0
+/1. letnik/Diskretne strukture/Snov/New Doc_4.jpg:1476811254.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20/main.py:1482267017.8721085
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6/input.txt:1481569207.031562
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje:1485637211.3188815
+/1. letnik/Programiranje 1/Vaje/Vaje 11/turtle.py:1483460136.0831718
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/t.py:1485046396.0
+/1. letnik/Programiranje 1/Advent/Day 12/.idea/modules.xml:1482089890.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea/misc.xml:1478090992.0
+/1. letnik/Programiranje 1/Vaje/Vaje 11/.idea/workspace.xml:1483719657.1146708
+/1. letnik/Matematika/Predavanja:1477555547.824029
+/1. letnik/Programiranje 1/Predavanja:1476813999.337087
+/1. letnik/Programiranje 1/Vaje/Vaje 3/extra_dodatna.py:1477658756.0
+/1. letnik/Programiranje 2/Vaje/build/classes/.netbeans_update_resources:1489400446.4472322
+/1. letnik/Programiranje 1/docs-pdf/howto-cporting.pdf:1485731646.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 7:1482263377.8455877
+/1. letnik/Programiranje 1/Advent/Day 18/.idea/Day 18.iml:1482164196.0
+/1. letnik/Programiranje 1/Vaje:1485502080.016552
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23:1482668102.5812147
+/1. letnik/Matematika/Snov/New Doc 1_5.jpg:1476810724.0
+/1. letnik/Programiranje 1/Vaje/Vaje 11/.idea:1483719657.1679468
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaje 9/sprotne naloge 9.txt:1482263108.0980494
+/1. letnik/Programiranje 1/Advent/Day 8/main.py:1482067798.0
+/1. letnik/Programiranje 1/docs-pdf/howto-argparse.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent/Day 6/.idea/workspace.xml:1481569638.0
+/1. letnik/Programiranje 1/Vaje/Vaje 5/.idea/misc.xml:1481820698.0
+/1. letnik/Programiranje 1/Vaje/Vaje 11/.idea/misc.xml:1483717103.5868158
+/1. letnik/Programiranje 2/Vaje/src/vaje/Vaje2.java:1489404078.3334365
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23/.idea/misc.xml:1482536692.0693548
+/1. letnik/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/modules.xml:1485611928.715303
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/.idea/workspace.xml:1476459122.0
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_5.jpg:1476810754.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8/.idea/Day 8.iml:1481636591.0936263
+/1. letnik/Programiranje 1/Advent/Day 12/input.txt:1482093042.0
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/private/private.properties:1490380663.8778484
+/1. letnik/Programiranje 2/Vaje/test:1489400317.7271345
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10/input.txt:1482057445.8044062
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13/jj.py:1482684325.7360246
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 16:1482169506.666618
+/1. letnik/Programiranje 1/Advent/Day 20/.idea:1485502081.3497758
+/1. letnik/Matematika/Snov/New Doc 1_7.jpg:1476810734.0
+/1. letnik/Programiranje 1/Advent/Day 3/main.py:1481482108.0
+/1. letnik/Programiranje 2:1489316754.1511939
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4/.idea/misc.xml:1477576610.0
+/1. letnik/Podatkovne baze/Predavanja/PB2013.pdf:1489599478.0953104
+/1. letnik/Programiranje 1/Advent/Day 2/.idea:1485502080.3168466
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_dopoldan - Navodila.pdf:1485635715.7643087
+/1. letnik/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/Dokumentacija urejanje števil v zbirniku.pdf:1483984356.44699
+/1. letnik/Programiranje 2/Vaje/src/vaje/Vaje4.java:1490609722.8169878
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea/modules.xml:1481301168.343187
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016:1485790194.9983425
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea:1484328759.2495055
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_popoldan - Rešitve.pdf:1485635848.2667794
+/1. letnik/Diskretne strukture/Snov/New Doc_8.jpg:1476811268.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9/input.txt:1482074981.3132153
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/19. februar_dopoldan - Rešitve.pdf:1485636122.7123244
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21/.idea/workspace.xml:1482433016.9181852
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea/misc.xml:1481928139.3978984
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 1/.idea:1481476920.1557305
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/5.txt:1480685838.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3/main.py:1481482107.0752802
+/1. letnik/Programiranje 1/Vaje/Vaje 9/.idea:1481838241.2936125
+/1. letnik/Programiranje 1/docs-pdf/howto-unicode.pdf:1485731646.0
+/1. letnik/Programiranje 1/Vaje/Vaje 9/.idea/misc.xml:1481833516.0
+/1. letnik/Programiranje 1/Advent/Day 5/.idea/Day 5.iml:1481560484.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_popoldan - Rešitve s komentarji.pdf:1485635015.782665
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/.idea/modules.xml:1476367622.0
+/1. letnik/Programiranje 1/docs-pdf/reference.pdf:1485731646.0
+/1. letnik/Diskretne strukture/Snov/New Doc_16.jpg:1476811296.0
+/1. letnik/Programiranje 1/Vaje/Vaje 10/main.py:1481895620.0
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/DN02.class:1489671830.043514
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/.idea:1478023645.7423503
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21/input.txt:1482432805.771182
+/1. letnik/Programiranje 1/Vaje/Vaje 3/.idea/workspace.xml:1478261870.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015:1485786725.7718146
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 1/.idea/misc.xml:1481471560.1399536
+/1. letnik/Diskretne strukture/Snov/New Doc_18.jpg:1476811304.0
+/1. letnik/Diskretne strukture:1477555547.7100961
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23/input.txt:1482668102.537207
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1/.idea/workspace.xml:1482962169.9806645
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/.idea/misc.xml:1476937210.0
+/1. letnik/Programiranje 1/Vaje/Vaje 2/.idea/workspace.xml:1476367622.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/15.februar_dopoldan - Rešitve.pdf:1485636031.0192993
+/1. letnik/Programiranje 1/Advent/Day 8/.idea/misc.xml:1481636572.0
+/1. letnik/Programiranje 1/Vaje/Vaje 7/.idea/Vaje 7.iml:1481826392.0
+/1. letnik/Programiranje 2/Vaje/build/classes/Vaje3.class:1490381023.2008238
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2/main.py:1482621567.6823902
+/1. letnik/Programiranje 1/Vaje/Vaje 3/main.py:1477656478.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_popoldan - Navodila.pdf:1485635802.904453
+/1. letnik/Diskretne strukture/Predavanja/pravilni_in_nepravilni_sklep.pdf:1476811716.0
+/1. letnik/Programiranje 1/Advent/Day 5/main.py:1481563164.0
+/1. letnik/Programiranje 1/Advent/Day 19/main.py:1482239064.0
+/1. letnik/Programiranje 1/Vaje/Vaje 5:1479155893.2739153
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4/input.txt:1481482839.1015716
+/1. letnik/Programiranje 1/Advent/Day 20/.idea/workspace.xml:1482248668.0
+/1. letnik/Programiranje 1/Advent of Code 2015:1482967699.7812965
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23/.idea/Day 23.iml:1482536707.1244378
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea:1480159287.5856757
+/1. letnik/Podatkovne baze/Predavanja/PB2017-Uvod.pdf:1489599306.3171656
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23/main.py:1482667924.2718265
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 4/.idea/Day 4.iml:1482964362.1306264
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7/main.py:1481636432.2222128
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25/.idea/workspace.xml:1482667520.240664
+/1. letnik/Programiranje 1/Advent/Day 6/input.txt:1481569208.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/input.txt:1481378968.0
+/1. letnik/Matematika/Predavanja/01_stevila.pdf:1476811796.0
+/1. letnik/Programiranje 1/Advent/Day 7/main.py:1481636434.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/modules.xml:1484328759.6566906
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/main.py:1485338723.3667648
+/1. letnik/Programiranje 1/Advent/Day 9/main.py:1482075124.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22/.idea/workspace.xml:1482673285.1427784
+/1. letnik/Programiranje 1/Advent/Day 2:1485502080.2888126
+/1. letnik/Programiranje 1/Vaje/Vaje 7/.idea/modules.xml:1481826278.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea:1483460226.6913695
+/1. letnik/Programiranje 1/.idea/workspace.xml:1485940229.3575525
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2/.idea:1482963348.0730488
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25/.idea/modules.xml:1482660442.767903
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2/input.txt:1482962268.232253
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 1/main.py:1481635249.8035393
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14/.idea/modules.xml:1482438716.4711907
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaje 11/sprotne naloge 11.txt:1483462356.7430973
+/1. letnik/Programiranje 1/Advent/Day 19/.idea/misc.xml:1482181790.0
+/1. letnik/Programiranje 1/Advent/Day 6/.idea:1485502080.6573067
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/19.februar_dopoldan.py:1485706117.4301965
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1/input.txt:1482961937.6327024
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6:1482970063.6915977
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/Naloga 13.iml:1483719705.9994655
+/1. letnik/Programiranje 1/Vaje/Vaje 2/.idea/Vaje 2.iml:1476361606.0
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/DN05.class:1490380766.6260152
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 19:1482239062.6216624
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15/input.txt:1482436229.1129515
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_dopoldan.py:1485810334.4906433
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6/.idea/workspace.xml:1483103263.1795752
+/1. letnik/Programiranje 2/Vaje/build:1489400446.3933945
+/1. letnik/Programiranje 1/Advent/Day 7:1485502080.7530825
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 1:1481635249.8948169
+/1. letnik/Programiranje 1/Advent/Day 20:1485502081.321777
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2/input.txt:1481478713.8774621
+/1. letnik/Programiranje 1/Advent/Day 5/.idea/modules.xml:1481560462.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaje 9/sprotne naloge 9.2.txt:1482533149.9545743
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_popoldan - Navodila.pdf:1485635603.4274416
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 5/sprotna naloga 5.txt:1479808336.0
+/1. letnik/Programiranje 1/Advent/Day 19/.idea:1485502081.2937894
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3:1482964135.1577098
+/1. letnik/Raèunalniška arhitektura/Vaje/Domaèa naloga/Dokumentacija domaèe naloge.docx:1483982863.3328657
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 18/.idea/workspace.xml:1482243812.2467327
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23/.idea:1482669221.1295712
+/1. letnik/Raèunalniške komunikacije/Domaèe naloge:1489599605.4125056
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10/.idea:1482620489.0932474
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea/workspace.xml:1485697712.240057
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9/.idea:1482089885.7106438
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/6.februar_dopoldan.py:1485714592.9891822
+/1. letnik/Programiranje 1/docs-pdf/c-api.pdf:1485731646.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/misc.xml:1485706130.5805602
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 18/main.py:1482245414.7462287
+/1. letnik/Diskretne strukture/Snov/New Doc_10.jpg:1476811276.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14/main.py:1482533255.337629
+/1. letnik/Programiranje 1/Advent/Day 7/input.txt:1481636368.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 16/.idea/misc.xml:1482167879.1911788
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8/.idea/modules.xml:1481636571.0532758
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_popoldan - Rešitve.pdf:1485635361.1021824
+/1. letnik/Matematika/Snov/New Doc 1_3.jpg:1476810712.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2/.idea:1482621615.9763176
+/1. letnik/Raèunalniške komunikacije/Vaje/Vaje 2 - Povezavna plast.docx:1489578122.084714
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 1/.idea/modules.xml:1481471560.207171
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21/main.py:1482432688.044917
+/1. letnik/Programiranje 1/Advent/Day 3/.idea:1485502080.3608634
+/1. letnik/Programiranje 1/usefull snippets.py:1485800371.8885014
+/1. letnik/Programiranje 1/Advent/Day 1/.idea/modules.xml:1481471562.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_popoldan.py:1485630568.2350073
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea/modules.xml:1483642515.9254873
+/1. letnik/Programiranje 1/Advent/Day 20/.idea/modules.xml:1482247200.0
+/1. letnik/Programiranje 2/Domace_naloge/build.xml:1489316767.8286445
+/1. letnik/Operacijski sistemi/Domaèe naloge/1.domaèa naloga:1490034087.5158267
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 1/.idea/Day 1.iml:1481471663.875338
+/1. letnik/Diskretne strukture/Vaje/01_dsvsp_1617.pdf:1476811748.0
+/1. letnik/Osnove verjetnosti in statistike/skripta.pdf:1489600007.6709619
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/modules.xml:1482533297.6369991
+/1. letnik/Programiranje 1/Advent/Day 12/.idea/misc.xml:1482089888.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25/.idea/Day 25.iml:1482660507.2030404
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 4:1480318917.9835277
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/dodatna.py:1477497440.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 4/sprotna naloga 4.txt:1479203155.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea/workspace.xml:1480608788.4644477
+/1. letnik/Programiranje 1/Advent/Day 4/.idea/workspace.xml:1481560462.0
+/1. letnik/Programiranje 1/Vaje/Vaje 9/vaje.py:1481838190.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 4/.idea/misc.xml:1482964235.8575017
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7/.idea/Day 7.iml:1481569791.022596
+/1. letnik/Programiranje 1/Vaje/Vaje 5/main.py:1481825096.0
+/1. letnik/Programiranje 2/Domace_naloge/src/domace_naloge:1490282980.4606602
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1/main.py:1482962151.660197
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 5/main.py:1482622493.5668912
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/2013_2014.iml:1485706145.0117555
+/1. letnik/Diskretne strukture/Snov/New Doc_6.jpg:1476811260.0
+/1. letnik/Programiranje 1/Advent/Day 7/.idea/workspace.xml:1481636572.0
+/1. letnik/Programiranje 1/Advent/Day 1/.idea:1485502080.2647471
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20:1482267017.923278
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 5:1482622493.6905563
+/1. letnik/Programiranje 1/Vaje/Vaje 10/.idea/Vaje 10.iml:1481890818.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori:1480159666.239568
+/1. letnik/Programiranje 1/Vaje/Vaje 9/main.py:1485798647.3201554
+/1. letnik/Programiranje 1/docs-pdf/howto-sockets.pdf:1485731646.0
+/1. letnik/Operacijski sistemi/Predavanja:1489599853.8167505
+/1. letnik/Raèunalniška arhitektura/Vaje/Domaèa naloga/Domaèa naloga.txt:1483984451.7964408
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14/t.py:1482446154.8257294
+/1. letnik/Uvod v raèunalništvo/Predavanja:1477555549.4882276
+/1. letnik/Programiranje 2/Vaje/src/vaje/Vaje1.java:1489316478.777
+/1. letnik/Raèunalniška arhitektura:1480368955.9073954
+/1. letnik/Programiranje 1/Vaje/Vaje 4/.idea:1478610368.7231388
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3/.idea/Day 3.iml:1481480029.3847618
+/1. letnik/Programiranje 1/Advent/Day 5/.idea/misc.xml:1481560462.0
+/1. letnik/Programiranje 1/Vaje za izpit/naloge_iz_programiranja (1).pdf:1485637336.720416
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_popoldan - Navodila.pdf:1485635451.6383913
+/1. letnik/Diskretne strukture/Snov/New Doc_17.jpg:1476811300.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 4/.idea/modules.xml:1477576610.0
+/1. letnik/Podatkovne baze/Predavanja/PB2017-Osnovni SQL.pdf:1489599336.6831043
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 6/main.py:1482970063.6294756
+/1. letnik/Programiranje 1/Advent/Day 1/.idea/Day 1.iml:1481471664.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/misc.xml:1480608903.0308466
+/1. letnik/Programiranje 1/docs-pdf/howto-logging.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent/Day 9/.idea/modules.xml:1482067970.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6/.idea/Day 6.iml:1481568132.6263504
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 4/.idea:1482964857.7714598
+/1. letnik/Programiranje 1/Advent/Day 4/.idea/Day 4.iml:1481482462.0
+/1. letnik/Programiranje 1/Vaje/Vaje 7/.idea/workspace.xml:1481832860.0
+/1. letnik/Programiranje 1/Vaje/Vaje 2/.idea:1476367621.0576813
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 5/.idea/workspace.xml:1482660442.0332716
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25/.idea/misc.xml:1482660442.725669
+/1. letnik/Programiranje 1/.idea/modules.xml:1485780710.039642
+/1. letnik/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/Neobvezna naloga (extra toèke) - urejanje števil.rar:1483984484.5174687
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea/misc.xml:1481301168.2349184
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13/.idea:1482961919.2011313
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/main.py:1479483907.0703566
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21:1482432805.7997923
+/1. letnik/Programiranje 1/Vaje/Vaje 3/.idea/misc.xml:1477652978.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 1/.idea/workspace.xml:1481476920.009609
+/1. letnik/Operacijski sistemi/Domaèe naloge:1490034087.5158267
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 19/.idea/misc.xml:1482181789.895865
+/1. letnik/Operacijski sistemi/Vaje/vaje4-naloge.txt:1489657839.6585107
+/1. letnik/Diskretne strukture/Snov/New Doc_9.jpg:1476811274.0
+/1. letnik/Programiranje 2/Vaje/nbproject:1489316399.081887
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/risar.py:1484908048.3082898
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5:1482967565.3044803
+/1. letnik/Programiranje 1/Advent/Day 8/.idea/Day 8.iml:1481636592.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 5/.idea:1482660442.0763025
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_dopoldan - Navodila.pdf:1485635519.7364736
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 17:1482801430.0188403
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 17/.idea/Day 17.iml:1482610633.3141906
+/1. letnik/Programiranje 1/Vaje/Vaje 11/main.py:1483719657.0138848
+/1. letnik/Programiranje 1/Vaje/Vaje 6/.idea/modules.xml:1481825132.0
+/1. letnik/Programiranje 1/Advent/Day 8/input.txt:1482064862.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15/.idea/Day 15.iml:1482433043.8317897
+/1. letnik/Programiranje 2/Vaje/src:1489942471.686195
+/1. letnik/Programiranje 1/Vaje/Vaje 7:1481838241.3266351
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 14/.idea/misc.xml:1482438716.4420404
+/1. letnik/Programiranje 1/Vaje/Vaje 7/.idea/misc.xml:1481826278.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12/input.txt:1482093041.245
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/private/configs:1490285425.255259
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 4/.idea/workspace.xml:1482964857.731357
+/1. letnik/Programiranje 1/Vaje za izpit:1485790491.5064473
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22/.idea/misc.xml:1482669221.291183
+/1. letnik/Matematika:1477555548.0655594
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/6.februar_popoldan.py:1485719520.063042
+/1. letnik/Programiranje 1/Vaje/Vaje 11/__pycache__:1483717249.7165236
+/1. letnik/Programiranje 1/Vaje/Vaje 2/.idea/modules.xml:1476361548.0
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/project.properties:1490380063.147734
+/1. letnik/Programiranje 1/Advent/Day 19/.idea/workspace.xml:1482242386.0
+/1. letnik/Programiranje 1/Advent of Code 2016:1482669216.3308208
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 1/Naloga 1 - dodatna.py:1476017990.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7/.idea/misc.xml:1481569636.7576952
+/1. letnik/Programiranje 1/Vaje/Vaje 2/main.py:1476367402.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 23/.idea/workspace.xml:1482669221.1071496
+/1. letnik/Programiranje 1/Advent/Day 18/.idea:1485502081.1936967
+/1. letnik/Programiranje 2/Vaje/build/classes/vaje/Vaje3.class:1489947203.6508136
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22/.idea/modules.xml:1482669221.3277926
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4:1481489214.3769097
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5/input.txt:1482967502.024179
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 17/main.py:1482801429.9665623
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9/.idea/workspace.xml:1482089885.6626706
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_dopoldan2015.py:1485639537.7633398
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/6.februar_dopoldan - Rešitve.pdf:1485636186.7432215
+/1. letnik/Programiranje 1/Advent/Day 18:1485502081.1456308
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/obvezna.py:1476458784.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 18/.idea/misc.xml:1482164176.5607357
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 1/Naloga 1 - obvezna.py:1476129056.0
+/1. letnik/Programiranje 1/Advent/Day 3/.idea/workspace.xml:1481482444.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea/modules.xml:1480159288.4145885
+/1. letnik/Matematika/Snov/New Doc 1_8.jpg:1476810732.0
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_8.jpg:1476810762.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25/.idea:1482667520.28081
+/1. letnik/Raèunalniška arhitektura/Snov:1477555549.4172022
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15/.idea/workspace.xml:1482438716.2239568
+/1. letnik/Programiranje 2/Vaje/nbproject/build-impl.xml:1489316399.0948937
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3:1478023645.7110991
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/test.py:1477497130.0
+/1. letnik/Programiranje 1/Vaje/Vaje 11/__pycache__/risar.cpython-35.pyc:1483717246.8751538
+/1. letnik/Programiranje 2/Domace_naloge/src/domace_naloge/DN04.java:1489672601.880277
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3.februar_popoldan.py:1485786725.7405636
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 4/.idea/workspace.xml:1481560460.7636523
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea/Naloga 6.iml:1478664788.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 18/.idea/Day 18.iml:1482164194.9582188
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/2.txt:1480685838.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/modules.xml:1485706130.6710553
+/1. letnik/Programiranje 2/Domace_naloge/src/domace_naloge/DN01.java:1489316689.2807486
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaja 6/sprotna naloga 6.txt:1480411866.0
+/1. letnik/Diskretne strukture/Predavanja/dsvsp-predavanja (1).pdf:1476811614.0
+/1. letnik/Programiranje 1/Advent/Day 10/input.txt:1482057446.0
+/1. letnik/Programiranje 1/Advent/Day 1/main.py:1481635250.0
+/1. letnik/Programiranje 2/Vaje/build/classes/Vaje4.class:1490609722.935895
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/15.februar_dopoldan.py:1485698729.8169515
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/Teèajna lista - navodila.pdf:1485636833.8845918
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_6.jpg:1476810760.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea:1485697712.279099
+/1. letnik/Programiranje 1/Advent/Day 9/.idea/misc.xml:1482067970.0
+/1. letnik/Programiranje 2/Domace_naloge/build/classes/.netbeans_automatic_build:1489671830.1856153
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2/.idea/workspace.xml:1482963348.0166006
+/1. letnik/Programiranje 1/Vaje za izpit/Slovarji in množice/vaje.py:1485618062.1367023
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea:1485725405.4412553
+/1. letnik/Programiranje 1/Advent/Day 3:1485502080.336837
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/Glasbena lestvica - navodila.pdf:1485636645.9488165
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/8.txt:1480685838.0
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke:1481838241.2642455
+/1. letnik/Programiranje 1/docs-pdf/installing.pdf:1485731646.0
+/1. letnik/Programiranje 1/docs-pdf/faq.pdf:1485731646.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 2/.idea/Naloga 2.iml:1476367644.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/workspace.xml:1485725405.405593
+/1. letnik/Programiranje 1/Advent/Day 1/.idea/workspace.xml:1481476922.0
+/1. letnik/Diskretne strukture/Snov/New Doc_22.jpg:1476811316.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/naloga3.py:1477461260.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea:1485698845.9426522
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12/main.py:1482094027.7201402
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/misc.xml:1479269645.0427365
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_7.jpg:1476810762.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2:1482621567.7282784
+/1. letnik/Programiranje 1/Advent/Day 10/main.py:1482062060.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9/.idea/misc.xml:1482067969.3880522
+/1. letnik/Programiranje 2/Vaje/build/classes/vaje/Vaje1.class:1489400446.4315994
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/project.xml:1489316767.3433008
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/Boti.pdf:1485636951.6243668
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 15/.idea/misc.xml:1482433017.271713
+/1. letnik/Diskretne strukture/Snov/New Doc_21.jpg:1476811312.0
+/1. letnik/Programiranje 1/Advent/Day 9/input.txt:1482074982.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice:1485646713.7463896
+/1. letnik/Programiranje 1/Advent/Day 2/.idea/workspace.xml:1481480016.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10/.idea/modules.xml:1482056843.0696254
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_popoldan - Rešitve.pdf:1485635659.506297
+/1. letnik/Programiranje 1/Vaje/Vaje 4:1478610368.653907
+/1. letnik/Programiranje 2/Vaje/nbproject/genfiles.properties:1489316399.1564374
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea/misc.xml:1483642515.8614414
+/1. letnik/Programiranje 1/docs-pdf/distributing.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent/Day 10/.idea/Day 10.iml:1482056854.0
+/1. letnik/Programiranje 2/Domace_naloge/nbproject/configs:1490285425.2396326
+/1. letnik/Programiranje 1/docs-pdf/using.pdf:1485731646.0
+/1. letnik/Programiranje 1/Vaje/Vaje 6/main.py:1481826208.0
+/1. letnik/Programiranje 1/Advent/Day 2/input.txt:1481478714.0
+/1. letnik/Diskretne strukture/Snov:1477555547.7057102
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 17/.idea/modules.xml:1482610519.9045365
+/1. letnik/Programiranje 1/Advent/Day 9/.idea:1485502080.9416924
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/workspace.xml:1481301166.8738315
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20/.idea/misc.xml:1482247199.876885
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5/.idea/workspace.xml:1482967704.9346466
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 8/main.py:1482621250.0028956
+/1. letnik/Programiranje 1/Vaje za izpit/Slovarji in množice:1485618062.186642
+/1. letnik/Programiranje 1/Vaje/Vaje 8/main.py:1481833328.0
+/1. letnik/Programiranje 1/docs-pdf/howto-urllib2.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 2/main.py:1482963179.2152033
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 5/.idea/modules.xml:1482964858.0142324
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/tecajnica2.txt:1480534078.0
+/1. letnik/Osnove verjetnosti in statistike:1489600026.4045582
+/1. letnik/Programiranje 1/Vaje/Vaje 11/.idea/modules.xml:1483717103.664997
+/1. letnik/Programiranje 1/Vaje/Vaje 7/main.py:1481832826.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 3/main.py:1482964106.1943135
+/1. letnik/Programiranje 1/Vaje za izpit/Rekurzija/main.py:1485811784.646157
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/main.py:1485645128.4068227
+/1. letnik/Programiranje 2/Domace_naloge/nbproject:1490285425.1902454
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 2/.idea/Day 2.iml:1481476972.9361238
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 22/main.py:1482671432.365983
+/1. letnik/Programiranje 1/docs-pdf/tutorial.pdf:1485731646.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/misc.xml:1484328759.5983222
+/1. letnik/Raèunalniška arhitektura/Snov/New Doc 2_1.jpg:1476810746.0
+/1. letnik/Programiranje 1/Advent/Day 6/.idea/Day 6.iml:1481568134.0
+/1. letnik/Programiranje 1/Vaje/Vaje 9:1485798647.3514037
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 5/.idea/Day 5.iml:1481560482.1351407
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea/workspace.xml:1485698845.8873694
+/1. letnik/Podatkovne baze/Predavanja/PB2017-Relacijska algebra.pdf:1489599443.5475411
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/main.py:1483477613.9967306
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7/.idea:1481636570.5410018
+/1. letnik/Programiranje 1/Vaje/Vaje 8/podatki.txt:1480681434.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13/main.py:1482840201.973524
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/Naloga 12.iml:1482533334.8007424
+/1. letnik/Programiranje 1/Vaje/Vaje 10/__pycache__/risar.cpython-35.pyc:1481890890.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Vaje 11:1483313814.1934893
+/1. letnik/Programiranje 1/Advent/Day 12/.idea:1485502081.0577493
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 4/main.py:1482964832.8720214
+/1. letnik/Programiranje 1/Advent/Day 7/.idea/misc.xml:1481569638.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_popoldan - Navodila.pdf:1485634957.8289485
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea/testi.iml:1483477697.4077919
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/tecajnica.txt:1480533122.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/.idea/modules.xml:1476937210.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12/.idea/misc.xml:1482089887.974372
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 12:1482094027.7656739
+/1. letnik/Programiranje 2/Vaje/nbproject/project.xml:1489316398.3193347
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea/misc.xml:1478664774.0
+/1. letnik/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/urejanje števil - bubble sort.txt:1483984471.978197
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_dopoldan - Rešitve.pdf:1485635574.7879653
+/1. letnik/Diskretne strukture/Predavanja/izjavni_vezniki.pdf:1476811642.0
+/1. letnik/Programiranje 1/Vaje/Vaje 8/datoteke/0.txt:1480685838.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 3:1481482107.1333652
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/ogrevalna.py:1477379410.0
+/1. letnik/Programiranje 2/Vaje/build/classes:1490609722.935895
+/1. letnik:1490036177.6323342
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea/2014_2015.iml:1483642545.5955918
+/1. letnik/Programiranje 1/Vaje/Vaje 2/.idea/misc.xml:1476361548.0
+/1. letnik/Programiranje 1/Vaje/Vaje 4/.idea/modules.xml:1478261870.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 3/.idea/Naloga 3.iml:1476937284.0
+/1. letnik/Raèunalniška arhitektura/Predavanja/RA-3O.pdf:1476811924.0
+/1. letnik/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/misc.xml:1485611928.6615798
+/1. letnik/Diskretne strukture/Snov/New Doc_11.jpg:1476811280.0
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1/.idea/Day 1.iml:1482961937.6677277
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/Objektni boti.pdf:1485637271.9842477
+/1. letnik/Programiranje 1/Advent/Day 6/.idea/misc.xml:1481568048.0
+/1. letnik/Diskretne strukture/Snov/New Doc_3.jpg:1476811252.0
+/1. letnik/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/15.februar_dopoldan - Navodila.pdf:1485636000.3197217
+/1. letnik/Programiranje 1/Advent/Day 16:1485502081.0819993
+/1. letnik/Programiranje 1/Vaje/Vaje 5/.idea:1479155893.296956
+/1. letnik/Programiranje 1/Vaje/Vaje 6/.idea/misc.xml:1481825132.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/example2.txt:1481913504.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea/modules.xml:1481928139.42917
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7/input.txt:1481636367.264
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 9/.idea/Day 9.iml:1482067985.2181773
+/1. letnik/Programiranje 1/Advent/Day 12/main.py:1482094028.0
+/1. letnik/Programiranje 1/.idea/Programiranje 1.iml:1485781147.5943117
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 13/.idea/misc.xml:1482618167.8318262
+/1. letnik/Programiranje 1/Advent/Day 16/main.py:1482169508.0
+/1. letnik/Programiranje 1/Vaje/Vaje 8/.idea/workspace.xml:1481833508.0
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/modules.xml:1483719657.5542989
+/1. letnik/Programiranje 1/Vaje/Vaje 3/.idea:1478610368.8001378
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 16/.idea/workspace.xml:1482181788.8944392
+/1. letnik/Programiranje 1/Advent of Code 2015/Day 1/.idea:1482962170.0211744
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 6/main.py:1481569505.4492674
+/1. letnik/Diskretne strukture/Snov/New Doc_15.jpg:1476811294.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 7/.idea/workspace.xml:1481636570.5029013
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea/Naloga 8.iml:1480159390.866176
+/1. letnik/Programiranje 2/Domace_naloge/src/domace_naloge/DN02.java:1489316704.9240437
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 20/.idea/workspace.xml:1482609823.4810505
+/1. letnik/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/workspace.xml:1484328759.2119732
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 21/.idea/Day 21.iml:1482384243.078024
+/1. letnik/Raèunalniške komunikacije/Vaje:1489599597.6899416
+/1. letnik/Programiranje 2/Vaje/nbproject/private:1489316611.0893188
+/1. letnik/Programiranje 1/Advent/Day 12:1485502081.0297482
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 10/.idea/Day 10.iml:1482056853.6547952
+/1. letnik/Programiranje 1/Vaje/Vaje 6/.idea:1481838241.31813
+/1. letnik/Programiranje 1/docs-pdf/extending.pdf:1485731646.0
+/1. letnik/Programiranje 1/docs-pdf/howto-descriptor.pdf:1485731646.0
+/1. letnik/Programiranje 1/Advent of Code 2016/Day 25:1482667001.0108676
+/1. letnik/Programiranje 1/Advent/Day 10/.idea/misc.xml:1482056844.0

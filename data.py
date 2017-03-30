@@ -2,12 +2,13 @@ import os, time
 from shutil import copyfile
 import subprocess
 from collections import defaultdict
+from hashlib import md5
 
 class BackupData:
-    def __init__(self, path, lookups, editBox):
+    def __init__(self, path, editBox):
         self.path = path
         self.base = path
-        self.lookups = [dir.strip().replace("\\", "/") for dir in lookups if os.path.exists(dir.strip())]
+        self.lookups = {dir.strip().replace("\\", "/") for dir in open('dirs.txt') if os.path.exists(dir.strip())} - set(self.path)
         self.sync_services = {'Google Drive': 'C:/Program Files (x86)/Google\Drive/googledrivesync.exe',
                             'Dropbox': 'C:/Program Files (x86)/Dropbox/Client/Dropbox.exe'}
 
@@ -26,10 +27,11 @@ class BackupData:
 
 
     def parse_log(self):
-        if not os.path.exists('log.txt'):
-            open('log.txt', 'w')
+        history_file = self.encrypt_file(self.path)
+        if not os.path.exists('history/'+history_file+'.txt'):
+            open('history/'+history_file+'.txt', 'w')
         self.log_content = defaultdict(float)
-        for row in open('log.txt', 'r'):
+        for row in open('history/'+history_file+'.txt', 'r'):
             path, time = row.strip().split(':')
             self.log_content[path] = float(time)
 
@@ -43,7 +45,7 @@ class BackupData:
         self.add_content()
         self.delete_content()
         self.change_content()
-        f = open('log.txt', 'w')
+        f = open('history/'+self.encrypt_file(self.path)+'.txt', 'w')
         f.write("\n".join((path+':'+str(self.path_content[path]) for path in self.path_content)))
         f.close()
         # self.console_output.append("Finished backing up ...\n\n")
@@ -79,6 +81,11 @@ class BackupData:
                     print("○", dest + path)
                     # self.console_output.append("+ {}\n".format(dest+path))
 
+
+    def encrypt_file(self, s):
+        m = md5()
+        m.update(s.encode('utf-8'))
+        return m.hexdigest()
 
     # def parse_dir(self, path):
     #     if not os.path.isdir(path):
