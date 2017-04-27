@@ -1,6 +1,6 @@
-G:/覚la/Faks - FRI
-F:/覚la/Faks - FRI
-C:/Users/domen_000/Dropbox/覚la/Faks - FRI
-C:/Users/domen_000/OneDrive/覚la/Faks - FRI
-C:/Users/domen_000/Google Drive/覚la/Faks - FRI
-C:/Users/domen_000/Documents/覚la/Faks - FRI
+Ra鑾nalnik#C:/Users/domen_000/Documents/覚la/Faks - FRI
+USB#G:/覚la/Faks - FRI
+Zunanji disk#F:/覚la/Faks - FRI
+Dropbox#C:/Users/domen_000/Dropbox/覚la/Faks - FRI
+OneDrive#C:/Users/domen_000/OneDrive/覚la/Faks - FRI
+Google Drive#C:/Users/domen_000/Google Drive/覚la/Faks - FRI

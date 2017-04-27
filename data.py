@@ -5,25 +5,27 @@ from collections import defaultdict
 from hashlib import md5
 
 class BackupData:
-    def __init__(self, path, editBox):
+    def __init__(self, path):
         self.path = path
         self.base = path
-        self.lookups = {dir.strip().replace("\\", "/") for dir in open('dirs.txt') if os.path.exists(dir.strip())} - set(self.path)
+        self.lookups = {dir.strip().replace("\\", "/") for dir in open('dirs.txt') if os.path.exists(dir.strip())} - set(self.path.replace('\\', '/'))
         self.sync_services = {'Google Drive': 'C:/Program Files (x86)/Google\Drive/googledrivesync.exe',
                             'Dropbox': 'C:/Program Files (x86)/Dropbox/Client/Dropbox.exe'}
 
-        self.path_content = defaultdict(float)
-        self.parse_log()
-        self.parse_dir(path)
-        self.content_to_delete = sorted(self.log_content.keys() - self.path_content.keys(), reverse=True)
-        self.content_to_add = sorted(self.path_content.keys() - self.log_content.keys())
-        self.content_to_change = sorted({path for path in self.path_content.keys() & self.log_content.keys()
-                                        if self.path_content[path] > self.log_content[path]})
 
 
         # self.console_output = editBox
-        self.backup()
+        # self.backup()
 
+
+    def get_content(self):
+        self.path_content = defaultdict(float)
+        self.parse_log()
+        self.parse_dir(self.path)
+        self.content_to_delete = sorted(self.log_content.keys() - self.path_content.keys(), reverse=True)
+        self.content_to_add = sorted(self.path_content.keys() - self.log_content.keys())
+        self.content_to_change = sorted({path for path in self.path_content.keys() & self.log_content.keys()
+                                         if self.path_content[path] > self.log_content[path]})
 
 
     def parse_log(self):
@@ -87,21 +89,6 @@ class BackupData:
         m.update(s.encode('utf-8'))
         return m.hexdigest()
 
-    # def parse_dir(self, path):
-    #     if not os.path.isdir(path):
-    #         for dir in self.lookups:
-    #             dir = path.replace(self.base, dir)
-    #             if not os.path.isfile(dir):
-    #                 print("Doesnt exist, creating file", dir)
-    #                 copyfile(path, dir)
-    #     else:
-    #         for dir in self.lookups:
-    #             dir = path.replace(self.base, dir)
-    #             if not os.path.exists(dir):
-    #                 print("Directory doesnt exists, creating it", dir)
-    #                 os.makedirs(dir)
-    #         for f in os.listdir(path):
-    #             self.parse_dir(path + "/" + f)
 
     def sync_data(self):
         for service in self.sync_services:
