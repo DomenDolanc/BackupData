@@ -8,7 +8,6 @@ class BackupData:
     def __init__(self, path):
         self.path = path
         self.base = path
-        self.lookups = {dir.strip().replace("\\", "/") for dir in open('dirs.txt') if os.path.exists(dir.strip())} - set(self.path.replace('\\', '/'))
         self.sync_services = {'Google Drive': 'C:/Program Files (x86)/Google\Drive/googledrivesync.exe',
                             'Dropbox': 'C:/Program Files (x86)/Dropbox/Client/Dropbox.exe'}
 
@@ -16,6 +15,10 @@ class BackupData:
 
         # self.console_output = editBox
         # self.backup()
+
+
+    def setDestinations(self, destinations):
+        self.destinations = destinations
 
 
     def get_content(self):
@@ -26,6 +29,10 @@ class BackupData:
         self.content_to_add = sorted(self.path_content.keys() - self.log_content.keys())
         self.content_to_change = sorted({path for path in self.path_content.keys() & self.log_content.keys()
                                          if self.path_content[path] > self.log_content[path]})
+
+        print(self.content_to_add)
+        print(self.content_to_change)
+        print(self.content_to_delete)
 
 
     def parse_log(self):
@@ -43,19 +50,28 @@ class BackupData:
             for f in os.listdir(path):
                 self.parse_dir(path + "/" + f)
 
+    def saveLog(self):
+        f = open('history/' + self.encrypt_file(self.path) + '.txt', 'w')
+        f.write("\n".join((path + ':' + str(self.path_content[path]) for path in self.path_content)))
+        f.close()
+
+    def clearLog(self):
+        f = open('history/' + self.encrypt_file(self.path) + '.txt', 'w')
+        f.write("")
+        f.close()
+
     def backup(self):
         self.add_content()
         self.delete_content()
         self.change_content()
-        f = open('history/'+self.encrypt_file(self.path)+'.txt', 'w')
-        f.write("\n".join((path+':'+str(self.path_content[path]) for path in self.path_content)))
-        f.close()
+        # self.saveLog()
+
         # self.console_output.append("Finished backing up ...\n\n")
 
 
     def add_content(self):
         for path in self.content_to_add:
-            for dest in self.lookups:
+            for dest in self.destinations:
                 if not os.path.exists(dest + path):
                     if os.path.isdir(self.base + path):
                         os.makedirs(dest+path)
@@ -66,7 +82,7 @@ class BackupData:
 
     def delete_content(self):
         for path in self.content_to_delete:
-            for dest in self.lookups:
+            for dest in self.destinations:
                 if os.path.exists(dest+path):
                     if os.path.isfile(dest + path):
                         os.remove(dest + path)
@@ -77,7 +93,7 @@ class BackupData:
 
     def change_content(self):
         for path in self.content_to_change:
-            for dest in self.lookups:
+            for dest in self.destinations:
                 if os.path.isfile(dest + path):
                     copyfile(self.base + path, dest + path)
                     print("○", dest + path)

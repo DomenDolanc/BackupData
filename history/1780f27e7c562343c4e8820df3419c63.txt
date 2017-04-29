@@ -1,45 +1,45 @@
-:1493058622.3184502
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice:1493059885.2028
+:1493058561.6132126
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice:1493059666.1966124
 /1. letnik/1. semester/Programiranje 1/Advent/Day 9/.idea/modules.xml:1482067970.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/HexDump.java:1465438156.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje9:1493059770.27522
-/1. letnik/2. semester/Podatkovne baze/Delovni zvezki:1493059742.2696974
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje9:1493059639.6025321
+/1. letnik/2. semester/Podatkovne baze/Delovni zvezki:1493059629.9368312
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (128).png:1466440688.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje2/Srecke.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/vaje/Imenik.class:1493027357.7667391
 /1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/1.domaèa naloga/koder.sh:1490033056.751885
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea/workspace.xml:1485698845.8873694
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/__pycache__:1493059868.24141
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/__pycache__:1493059663.0605571
 /1. letnik/1. semester/Programiranje 1/Advent/Day 2/.idea/Day 2.iml:1481476974.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 10/.idea/workspace.xml:1482062100.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3/.idea/Day 3.iml:1481480029.3847618
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1/.idea/modules.xml:1481471560.207171
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1/.idea/Day 1.iml:1481471663.875338
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9:1493059842.4786747
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9:1493059657.4603424
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/KVIZ 4 varnost in aplikacijska plast.png:1491562556.0
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/projekt:1493059784.9606266
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/projekt:1493059643.480215
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3/extra_dodatna.py:1477658756.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4:1493059870.254225
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4:1493059663.4607327
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2/.idea/workspace.xml:1476367622.0
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/pisni izpit - 18.9.2012.pdf:1368259430.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/math:1493059770.3863287
-/1. letnik/1. semester/Programiranje 1/Advent/Day 20:1493059817.3334424
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/math:1493059639.8859494
+/1. letnik/1. semester/Programiranje 1/Advent/Day 20:1493059650.9583101
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2/main.py:1482621567.6823902
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 8/.idea/workspace.xml:1482621414.2963352
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9/.idea/Vaje 9.iml:1481833514.0
 /1. letnik/2. semester/Operacijski sistemi/Kvizi/K04.png:1493063902.68533
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5:1493059768.03239
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5:1493059638.1204746
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/studenti.txt:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rekurzija/main.py:1485811784.646157
 /1. letnik/1. semester/Programiranje 1/Advent/Day 18/main.py:1482245416.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4/.idea/Vaje 4.iml:1478261884.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 1/.idea/modules.xml:1481471562.0
-/1. letnik/1. semester/Matematika/Predavanja/12_vektorji.pdf:1493063897.0303524
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje:1493059860.6929493
+/1. letnik/1. semester/Matematika/Predavanja/12_vektorji.pdf:1493063897.0290716
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje:1493059660.3495479
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/15.februar_dopoldan.py:1485698729.8169515
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5/Ocena.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/2013_2014.iml:1485706145.0117555
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-4O.pdf:1493063898.1936543
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-4O.pdf:1493063898.1780307
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (116).png:1466440664.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 3/.idea/Day 3.iml:1481480030.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/znaki1250.txt:1465438156.0
@@ -53,87 +53,87 @@
 /1. letnik/1. semester/Programiranje 1/Advent/Day 2/.idea/workspace.xml:1481480016.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9/main.py:1482075123.699226
 /1. letnik/1. semester/Programiranje 1/Advent/Day 4/.idea/misc.xml:1481482444.0
-/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/2.domaèa naloga/lesniki.sh:1493418085.2462924
+/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/2.domaèa naloga/lesniki.sh:1493418085.2675135
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea/misc.xml:1481928139.3978984
 /1. letnik/2. semester/Programiranje 2/Vaje/src/vaje/Vaje7.java:1493059162.595081
 /1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN11.png:1493063895.3428469
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/ogrevalna.py:1477379410.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje3/BranjeTipkovnice.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_dopoldan.py:1485810334.4906433
-/1. letnik/2. semester/Podatkovne baze/Vaje/VajePB.pdf:1493063910.3562825
+/1. letnik/2. semester/Podatkovne baze/Vaje/VajePB.pdf:1493063910.325014
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/1 Fizicna povezavna plast.pdf:1491562454.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23:1493059837.780563
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4/.idea:1493059823.7977812
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23:1493059656.1247215
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4/.idea:1493059653.117389
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/sah9x9.ppm:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/PWTest.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/.idea/workspace.xml:1478026456.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6a/Razred4.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/misc.xml:1482533297.5712934
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (88).png:1466440534.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2:1493059868.3039112
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2:1493059663.10898
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje1/Obresti.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN IPv4 in ICMP.png:1491562554.0
 /1. letnik/2. semester/Programiranje 2/Izpiti/1 izpit/Izpit1.pdf:1468067866.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4/.idea/Day 4.iml:1482964362.1306264
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (139).png:1466440710.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (135).png:1466440702.0
-/1. letnik/1. semester/Programiranje 1/Vaje:1493059875.9317634
+/1. letnik/1. semester/Programiranje 1/Vaje:1493059664.3398106
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (59).png:1466440276.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 19/.idea/workspace.xml:1482242386.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/.idea/modules.xml:1480681136.0
-/1. letnik/2. semester/Operacijski sistemi/Vaje/vaje5:1493059692.3268955
+/1. letnik/2. semester/Operacijski sistemi/Vaje/vaje5:1493059619.132339
 /1. letnik/1. semester/Programiranje 1/Advent/Day 6/.idea/modules.xml:1481568048.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/hoteli/HotelskaVeriga.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 4/.idea/workspace.xml:1481560462.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4/.idea/modules.xml:1482964235.8945906
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25/.idea/Day 25.iml:1482660507.2030404
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea:1493059862.8402917
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea:1493059660.874631
 /1. letnik/2. semester/Osnove verjetnosti in statistike/ulj_fri_ri3_ovs_izp_priprava_za_teoreticni_izpit_01.pdf:1466262510.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/misc.xml:1484328759.5983222
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/DN04.java:1489672601.880277
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/test/classes:1492974042.290525
 /1. letnik/1. semester/Uvod v raèunalništvo:1493063899.67997
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_5.jpg:1476810754.0
-/1. letnik/2. semester/Programiranje 2/Izpiti/1 izpit:1493059758.3961973
-/1. letnik/1. semester/Programiranje 1/Advent/Day 9:1493059821.9402823
+/1. letnik/2. semester/Programiranje 2/Izpiti/1 izpit:1493059632.2672615
+/1. letnik/1. semester/Programiranje 1/Advent/Day 9:1493059652.099524
 /1. letnik/2. semester/Programiranje 2/Vaje/src/vaje/Vaje3.java:1491683829.6249669
 /1. letnik/2. semester/Operacijski sistemi/Vaje/vaje5/peta.sh:1490869724.1052558
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/s3.jpeg:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 6/input.txt:1481569208.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/.idea:1493059827.3036892
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/generated-sources:1493059751.1090639
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/.idea:1493059654.483781
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/generated-sources:1493059631.422387
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/.idea/modules.xml:1482438716.4711907
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/pisni izpit - 18.6.2013.pdf:1372183166.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (150).png:1466440732.0
-/1. letnik/2. semester/Operacijski sistemi/Predavanja:1493059690.1788108
+/1. letnik/2. semester/Operacijski sistemi/Predavanja:1493059618.9014647
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/test.py:1477497130.0
 /1. letnik/2. semester/Operacijski sistemi/Vaje/vaje5/cetrta.sh:1490869724.074008
-/1. letnik/1. semester/Matematika/Predavanja/13_vektorji_matrike.pdf:1493063897.0930307
+/1. letnik/1. semester/Matematika/Predavanja/13_vektorji_matrike.pdf:1493063897.0774546
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-curses.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-descriptor.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22/.idea/misc.xml:1482669221.291183
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/.idea/workspace.xml:1482618114.0796368
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje3/IzpisDatoteke.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5/.idea/workspace.xml:1481825132.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 4/.idea:1493059817.7962706
+/1. letnik/1. semester/Programiranje 1/Advent/Day 4/.idea:1493059651.3300242
 /1. letnik/2. semester/Programiranje 2/Vaje/manifest.mf:1489316401.891033
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-pyporting.pdf:1485731646.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5/SteviloDni.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20122905 RKVB-Kolokvij_2lj-2012.pdf:1491562494.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20:1493059832.1482565
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20:1493059655.5705612
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-argparse.pdf:1485731646.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8:1493059870.8461373
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8:1493059664.1853924
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (157).png:1466440746.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20110329-RK-Kolokvij1.pdf:1491562530.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100806 RK VSP 1izpit .pdf:1491562520.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/.idea:1493059863.2481787
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/.idea:1493059661.3362217
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/OblikujVVelikeCrke.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_popoldan - Rešitve.pdf:1485635659.506297
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3/.idea/modules.xml:1482963348.3272521
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/.idea/Day 1.iml:1482961937.6677277
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/main.py:1485338723.3667648
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/Oseba.java:1465438156.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 6/.idea:1493059825.8484492
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 6/.idea:1493059653.5171075
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/project.properties:1492958275.6112332
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/dolocila/G3.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (67).png:1466440308.0
@@ -141,11 +141,11 @@
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9/.idea/modules.xml:1481285438.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje7/IzpisStudentov.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/5_aplikacijska_plast3.pdf:1491562458.0
-/1. letnik/1. semester/Matematika/Domaèe naloge:1493063896.1069665
+/1. letnik/1. semester/Matematika/Domaèe naloge:1493063895.991155
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/private/config.properties:1492974140.9420178
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (83).png:1466440512.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje2/SreckePlus.java:1465438156.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 3:1493059892.581705
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 3:1493059666.8614721
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/vaje/Vaje2.rs:1489400446.4315994
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN07.rs:1492974048.8260531
 /1. letnik/1. semester/Programiranje 1/Advent/Day 4/.idea/modules.xml:1481482444.0
@@ -163,24 +163,24 @@
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/SeznamOseb.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (60).png:1466440280.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19/.idea/modules.xml:1482181789.9833536
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 6:1493059825.7791166
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea:1493059865.3117876
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25/.idea:1493059837.9833047
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 6:1493059653.3822167
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea:1493059661.6509268
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25/.idea:1493059656.452602
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3/main.py:1482964106.1943135
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_7.jpg:1476810734.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3/.idea:1493059838.1166217
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea:1493059865.5117507
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje1:1493059760.5842962
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3/.idea:1493059656.610986
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea:1493059661.8665218
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje1:1493059633.2761862
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/__pycache__/turtle.cpython-35.pyc:1483717249.7145202
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12/main.py:1482094027.7201402
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/dist/lib:1493059752.9434597
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/dist/lib:1493059631.4692597
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100206 RK VB 2 kolokvij BR.pdf:1491562526.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2/input.txt:1482962268.232253
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2/.idea:1493059832.047828
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2/.idea:1493059655.4857855
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18/main.py:1482245414.7462287
 /1. letnik/1. semester/Programiranje 1/Advent/Day 16/.idea/misc.xml:1482167880.0
 /1. letnik/2. semester/Programiranje 2/Izpiti/1 izpit/Vrzel.java:1468067926.0
-/1. letnik/2. semester/Operacijski sistemi/Kvizi/K02.png:1493063902.5160298
+/1. letnik/2. semester/Operacijski sistemi/Kvizi/K02.png:1493063902.5004058
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/dist/README.TXT:1492973991.9429672
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10/.idea/modules.xml:1482056843.0696254
 /1. letnik/2. semester/Raèunalniške komunikacije/Predavanja/5_aplikacijska_plast3.pdf:1464708243.0
@@ -196,14 +196,14 @@
 /1. letnik/2. semester/Programiranje 2/Prosojnice/4-Strukturiranje kode.pdf:1468067806.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/math/geometrija/Trikotnik.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Predavanja:1476813999.337087
-/1. letnik/1. semester/Programiranje 1/Advent:1493059821.8698921
+/1. letnik/1. semester/Programiranje 1/Advent:1493059652.0179992
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (12).png:1466439532.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/2.txt:1480685838.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2/.idea/misc.xml:1481476920.5197122
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea/Naloga 10.iml:1481301194.1142066
-/1. letnik/2. semester/Podatkovne baze:1493063906.413659
+/1. letnik/2. semester/Podatkovne baze:1493063906.398034
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23/.idea/modules.xml:1482536692.0910316
-/1. letnik/2. semester/Operacijski sistemi/Kvizi/K05.png:1493063902.7382133
+/1. letnik/2. semester/Operacijski sistemi/Kvizi/K05.png:1493063902.7165809
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_5.jpg:1476810724.0
 /1. letnik/2. semester/Programiranje 2/Vaje/viri/kodirano.txt:1491683965.897
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (69).png:1466440314.0
@@ -218,25 +218,25 @@
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/Naloga 7.iml:1479269683.332574
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/dodatna.py:1477497440.0
 /1. letnik/1. semester/Diskretne strukture/Predavanja/zakoni_izjavnega_racuna.pdf:1476811662.0
-/1. letnik/2. semester/Raèunalniške komunikacije/Kvizi/K02.png:1493063923.429491
+/1. letnik/2. semester/Raèunalniške komunikacije/Kvizi/K02.png:1493063923.3920724
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/vaje/Vaje3.class:1491683832.3480842
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3/main.py:1481482107.0752802
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/.idea/modules.xml:1476937210.0
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/Vaje2.class:1489404078.6187165
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea:1493059884.6295197
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea:1493059665.727542
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4/main.py:1482964832.8720214
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/izjeme/TryCatchTest.java:1465438156.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K03.png:1493063899.8648074
+/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K03.png:1493063899.8492215
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (97).png:1466440554.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/Boti.pdf:1485636951.6243668
-/1. letnik/2. semester/Podatkovne baze/Vaje/VajeDDLinPogledi.pdf:1493063910.0934932
-/1. letnik/1. semester/Programiranje 1/Advent/Day 10:1493059812.3468583
+/1. letnik/2. semester/Podatkovne baze/Vaje/VajeDDLinPogledi.pdf:1493063910.0404055
+/1. letnik/1. semester/Programiranje 1/Advent/Day 10:1493059649.6725242
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/OblikovalecBesedila.java:1465438156.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3:1493059823.6131475
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3:1493059652.7754197
 /1. letnik/1. semester/Uvod v raèunalništvo/Vaje/Vaje 1.pdf:1476812102.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 4/.idea/Day 4.iml:1481482462.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (71).png:1466440320.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil:1493059892.496694
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil:1493059666.8287556
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100920 RK LJ-Se.pdf:1491562514.0
 /1. letnik/2. semester/Programiranje 2/Prosojnice/1-Uvod.pdf:1468067798.0
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/vaje/Oseba.class:1493027357.7667391
@@ -250,8 +250,8 @@
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN - ethernet, ARP.png:1491562556.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/modules.xml:1484328759.6566906
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/.idea/misc.xml:1482961919.6082642
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge:1493059865.8449056
-/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/2.domaèa naloga:1493059676.8196287
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge:1493059662.1689901
+/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/2.domaèa naloga:1493059618.0258608
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 6/.idea/Vaje 6.iml:1481825220.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/Naloga 14.iml:1484328771.3859675
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/1.txt:1480685838.0
@@ -260,15 +260,15 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 6/.idea/workspace.xml:1483103263.1795752
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7/.idea/modules.xml:1481569636.8139527
 /1. letnik/2. semester/Programiranje 2/Prosojnice/7-Izjeme.pdf:1468067814.0
-/1. letnik/1. semester/Programiranje 1/docs-pdf:1493059856.4556613
+/1. letnik/1. semester/Programiranje 1/docs-pdf:1493059659.4642465
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea/workspace.xml:1485706129.8462515
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/drzave.txt:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/.idea/Day 14.iml:1482438740.2701983
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge:1493063917.7343433
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr07racOmrezja.pdf:1493063901.028798
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge:1493063917.698544
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr07racOmrezja.pdf:1493063901.013171
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_20.jpg:1476811310.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2/.idea/workspace.xml:1482621615.9414046
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 7:1493059870.653978
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 7:1493059663.870142
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9/main.py:1485798647.3201554
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/hoteli/OsnovneZahteve.java:1465438156.0
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_11.jpg:1476811280.0
@@ -279,20 +279,20 @@
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-logging-cookbook.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/3.txt:1480685838.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-ipaddress.pdf:1485731646.0
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit:1493059885.1715505
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit:1493059666.1608284
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/dodatna (1).py:1477054022.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice/vaje.py:1485618062.1367023
 /1. letnik/2. semester/Programiranje 2/Vaje/nbproject/project.properties:1489316402.1682298
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/s1.jpeg:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15/main.py:1482436035.5419915
-/1. letnik/2. semester/Podatkovne baze/Vaje/VajePostgres.pdf:1493063912.28431
+/1. letnik/2. semester/Podatkovne baze/Vaje/VajePostgres.pdf:1493063912.282002
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/t.py:1485046396.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 16/.idea/Day 16.iml:1482167892.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (42).png:1466440146.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/Slikar.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100106 RK VSP 2 kolokvij BR.pdf:1491562524.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/vmesnik:1493059761.1540625
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea:1493059862.7031584
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/vmesnik:1493059634.430421
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea:1493059660.6984475
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22/.idea/workspace.xml:1482673285.1427784
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25/.idea/workspace.xml:1482667520.240664
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5/main.py:1482622493.5668912
@@ -303,23 +303,23 @@
 /1. letnik/2. semester/Raèunalniške komunikacije/rk_vaje3.txt:1491315968.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (87).png:1466440532.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 5/.idea/workspace.xml:1482967704.9346466
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN01.png:1493063917.2800353
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje8:1493059770.1417396
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN01.png:1493063917.2487848
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje8:1493059639.1703646
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_3.jpg:1476811252.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_dopoldan - Rešitve.pdf:1485635790.2989776
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2/main.py:1482963179.2152033
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_21.jpg:1476811312.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13:1493059761.6863158
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13:1493059635.7176342
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/viri/temperature3.txt:1493048055.584542
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/LDN06.zip:1492949312.587216
-/1. letnik/1. semester/Programiranje 1/Advent/Day 7:1493059821.6675375
+/1. letnik/1. semester/Programiranje 1/Advent/Day 7:1493059651.6779337
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_9.jpg:1476810766.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/izjeme:1493059761.355071
-/1. letnik/1. semester/Programiranje 1/Advent/Day 1/.idea:1493059812.2178435
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/izjeme:1493059634.8621511
+/1. letnik/1. semester/Programiranje 1/Advent/Day 1/.idea:1493059649.633988
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (133).png:1466440698.0
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/test:1491053878.3816147
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/podatki.txt:1480681434.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje4:1493059764.4730313
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje4:1493059637.5800316
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (85).png:1466440520.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19/.idea/Day 19.iml:1482181812.6836524
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23/main.py:1482667924.2718265
@@ -332,25 +332,25 @@
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/.idea/workspace.xml:1476459122.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/obvezna.py:1476458784.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (39).png:1466440120.0
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/build:1493059751.1249123
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10:1493059866.2136252
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/build:1493059631.4379957
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10:1493059662.7548065
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4/.idea/workspace.xml:1478266022.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/extra_dodatna.py:1477658740.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 3:1493059817.5861218
+/1. letnik/1. semester/Programiranje 1/Advent/Day 3:1493059651.098395
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/.idea/Naloga 2.iml:1476367644.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/.idea/modules.xml:1477576610.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 19/.idea/Day 19.iml:1482181814.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji:1493059865.6282318
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji:1493059661.9364853
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/izjeme/FinallyTest.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 4/main.py:1481489216.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13/.idea:1493059826.9684913
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13/.idea:1493059654.3041391
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_dopoldan - Navodila.pdf:1485635715.7643087
 /1. letnik/2. semester/Operacijski sistemi/Vaje/vaje5/prva.sh:1490869724.1421766
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (122).png:1466440676.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (107).png:1466440580.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/project.xml:1489316767.3433008
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100629RK pisni izpit Sezana.pdf:1491562516.0
-/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K08.png:1493063904.1407702
+/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K08.png:1493063904.1029997
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (109).png:1466440584.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje9/UrejanjeTabel.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/StdDraw.class:1491676022.856697
@@ -365,19 +365,19 @@
 /1. letnik/2. semester/Programiranje 2/Vaje/test:1489400317.7271345
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_10.jpg:1476810768.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 6/main.py:1481569506.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 8:1493059821.7958238
-/1. letnik/1. semester/Programiranje 1/Advent/Day 7/.idea:1493059821.7067976
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3:1493059838.0839374
+/1. letnik/1. semester/Programiranje 1/Advent/Day 8:1493059651.8784525
+/1. letnik/1. semester/Programiranje 1/Advent/Day 7/.idea:1493059651.8150773
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3:1493059656.5048103
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20121806-RKVB-Izpit 1 Lj.pdf:1491562498.0
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rekurzija:1493059881.7824244
-/1. letnik/1. semester/Uvod v raèunalništvo/Vaje:1493059894.6972756
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rekurzija:1493059664.662137
+/1. letnik/1. semester/Uvod v raèunalništvo/Vaje:1493059667.0498197
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN09$1.class:1493056427.7409768
-/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi:1493063904.4721327
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge:1493063895.4743643
+/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi:1493063904.156448
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge:1493063895.4431653
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_15.jpg:1476811294.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN07.class:1492974048.8115373
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/0.txt:1480685838.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/hoteli:1493059761.0224588
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/hoteli:1493059634.214079
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea/workspace.xml:1480608788.4644477
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/t.txt:1492502935.3047397
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea/workspace.xml:1485697712.240057
@@ -388,17 +388,17 @@
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/1. domaèa naloga - Fizièna plast.pdf:1488715848.8437045
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (137).png:1466440706.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/urejanje števil - bubble sort.txt:1483984471.978197
-/1. letnik/2. semester/Programiranje 2/Izpiti/2 izpit:1493059760.285351
+/1. letnik/2. semester/Programiranje 2/Izpiti/2 izpit:1493059632.5979662
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/vmesnik/Funkcija.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Vaje/nbproject/build-impl.xml:1489316399.0948937
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN04.rs:1492974048.8225465
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 6:1493059870.5268524
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 6:1493059663.7560327
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5/.idea/misc.xml:1481560461.2536678
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/.idea:1493059868.1915402
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/.idea:1493059663.029535
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7/.idea/workspace.xml:1481636570.5029013
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr04osnovniGradniki.pdf:1493063900.4345117
-/1. letnik/1. semester/Matematika/Predavanja/09_odvod_integral.pdf:1493063896.7765298
-/1. letnik/1. semester/Programiranje 1/Advent/Day 3/.idea:1493059817.6646771
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr04osnovniGradniki.pdf:1493063900.4124284
+/1. letnik/1. semester/Matematika/Predavanja/09_odvod_integral.pdf:1493063896.7609558
+/1. letnik/1. semester/Programiranje 1/Advent/Day 3/.idea:1493059651.198467
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/okna/JFrameTest.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 20/.idea/workspace.xml:1482248668.0
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_2.jpg:1476811246.0
@@ -408,9 +408,9 @@
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/main.py:1483103758.221092
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 8/.idea/Day 8.iml:1481636591.0936263
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (53).png:1466440250.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 7:1493059892.721315
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 7:1493059666.9599595
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6/.idea/Day 6.iml:1481568132.6263504
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea:1493059860.7611754
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea:1493059660.4964008
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/obvezna.py:1477379464.0
 /1. letnik/1. semester/Matematika/Vaje/av02_matb_1617.pdf:1476811836.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9/.idea/misc.xml:1482067969.3880522
@@ -419,14 +419,14 @@
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN06.class:1492974048.8105361
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/.netbeans_automatic_build:1489400446.4472322
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/izjeme/TryWithResourcesTest.java:1465438156.0
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN12.png:1493063895.3896725
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1:1493059822.0716898
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN12.png:1493063895.3740978
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1:1493059652.299638
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje8/UrejanjeTabel.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5/.idea/modules.xml:1478866600.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/Slovarji in množice.iml:1485611938.975529
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (49).png:1466440230.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 7/main.py:1481636434.0
-/1. letnik/2. semester/Operacijski sistemi/Vaje:1493059692.2662501
+/1. letnik/2. semester/Operacijski sistemi/Vaje:1493059619.0010383
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (100).png:1466440562.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3/.idea/workspace.xml:1478261870.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 8/input.txt:1482064862.0
@@ -444,58 +444,58 @@
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/.netbeans_automatic_build:1492974048.862133
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (98).png:1466440556.0
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/paket/Vaje4.class:1491683762.215599
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21:1493059832.2796824
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21:1493059655.756368
 /1. letnik/2. semester/Programiranje 2/Vaje/src/vaje/Vaje4.java:1491211467.035
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (73).png:1466440330.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (134).png:1466440700.0
-/1. letnik/2. semester:1493059782.9320376
-/1. letnik/1. semester/Programiranje 1/Advent/Day 2:1493059814.733332
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src:1493059770.2948174
+/1. letnik/2. semester:1493059642.8920426
+/1. letnik/1. semester/Programiranje 1/Advent/Day 2:1493059650.691689
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src:1493059639.6574602
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (77).png:1466440348.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri:1493059770.4284134
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2:1493059862.6463552
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri:1493059640.0158505
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2:1493059660.5971138
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea/2014_2015.iml:1483642545.5955918
 /1. letnik/1. semester/Programiranje 1/docs-pdf/extending.pdf:1485731646.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr10babilonskiStolp.pdf:1493063901.5368228
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr10babilonskiStolp.pdf:1493063901.467814
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (45).png:1466440172.0
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/pisni izpit - 23.6.2011 rešitve.pdf:1372619116.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6/Razred2.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (131).png:1466440694.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea/misc.xml:1483477665.6082337
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_4.jpg:1476810722.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 6:1493059892.6927912
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 6:1493059666.9363236
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12/.idea/Day 12.iml:1482089922.6145594
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20110606-RKVB-2-Kolokvij.pdf:1491562512.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/input.txt:1481378968.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/Socialna mreža - navodila.pdf:1485636733.273021
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 8/.idea:1493059842.3953824
-/1. letnik/1. semester/Matematika/Predavanja/08_odvod.pdf:1493063896.7071223
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 8/.idea:1493059657.4102538
+/1. letnik/1. semester/Matematika/Predavanja/08_odvod.pdf:1493063896.691548
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea/Naloga 5.iml:1478091012.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 18/.idea:1493059812.7793865
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN09.png:1493063895.2587569
-/1. letnik/1. semester/Matematika/Predavanja/14_matrike_sistemi.pdf:1493063897.1460316
-/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge:1493059676.7883613
-/1. letnik/2. semester/Operacijski sistemi/Kvizi/K01.png:1493063902.4363985
+/1. letnik/1. semester/Programiranje 1/Advent/Day 18/.idea:1493059650.5076962
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN09.png:1493063895.2431645
+/1. letnik/1. semester/Matematika/Predavanja/14_matrike_sistemi.pdf:1493063897.130347
+/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge:1493059617.9946625
+/1. letnik/2. semester/Operacijski sistemi/Kvizi/K01.png:1493063902.4001403
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15/Listenertest.java:1465438156.0
-/1. letnik/2. semester/Programiranje 2/Vaje/build/classes/vaje:1493059780.867824
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si:1493059770.2948174
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN14.png:1493063895.4743643
-/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K02.png:1493063899.7957075
+/1. letnik/2. semester/Programiranje 2/Vaje/build/classes/vaje:1493059642.4903882
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si:1493059639.6574602
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN14.png:1493063895.45879
+/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K02.png:1493063899.7800806
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3/input.txt:1482964135.1085117
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/main.py:1478024328.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/povzetek_predavanj_za_ucenje.pdf:1491562576.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 4:1493059892.6117258
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 4:1493059666.8758533
 /1. letnik/2. semester/Operacijski sistemi:1493063902.3688915
-/1. letnik/1. semester/Raèunalniška arhitektura:1493059890.0104537
+/1. letnik/1. semester/Raèunalniška arhitektura:1493059666.6486228
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21/.idea/modules.xml:1482384200.288139
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-sorting.pdf:1485731646.0
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/.netbeans_update_resources:1489400446.4472322
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/dist/lib/stdlib.jar:1492973991.9494722
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2:1493059831.980818
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2:1493059655.4047058
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100406-RKVSP-1-Kolokvij.pdf:1491562534.0
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_13.jpg:1476811288.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 12/.idea/workspace.xml:1482245528.0
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN09.png:1493063895.97552
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN09.png:1493063895.9598947
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (48).png:1466440224.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 19/.idea/modules.xml:1482181790.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18/.idea/misc.xml:1482164176.5607357
@@ -504,91 +504,91 @@
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/x/Znaki-utf16.txt:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 7/.idea/modules.xml:1481569638.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/tutorial.pdf:1485731646.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 9/.idea:1493059821.9853444
+/1. letnik/1. semester/Programiranje 1/Advent/Day 9/.idea:1493059652.2355592
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (130).png:1466440692.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/Planet.class:1492974048.8370607
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22/input.txt:1482669295.2674499
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea:1493059866.0487444
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea:1493059662.5200188
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13/.idea/Day 13.iml:1482618263.4961612
 /1. letnik/2. semester/Raèunalniške komunikacije/Predavanja/2 Omrežna plast.pdf:1459683531.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje8/Anagram.java:1465438156.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 6/.idea:1493059819.8159206
+/1. letnik/1. semester/Programiranje 1/Advent/Day 6/.idea:1493059651.6154315
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN05.rs:1492974048.823546
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/.idea/misc.xml:1482438716.4420404
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge:1493059751.0848916
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge:1493059631.3826535
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (63).png:1466440294.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/risar.py:1483460269.4244876
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/naloge_iz_programiranja (1).pdf:1485637336.720416
-/1. letnik/1. semester/Matematika/Predavanja/03_stevila.pdf:1493063896.3286617
+/1. letnik/1. semester/Matematika/Predavanja/03_stevila.pdf:1493063896.1916
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19/main.py:1482239062.5696578
-/1. letnik/2. semester/Raèunalniške komunikacije/Kvizi/K01.png:1493063921.5869823
+/1. letnik/2. semester/Raèunalniške komunikacije/Kvizi/K01.png:1493063921.5713613
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/workspace.xml:1484328759.2119732
-/1. letnik/2. semester/Raèunalniške komunikacije:1493063921.5557654
+/1. letnik/2. semester/Raèunalniške komunikacije:1493063921.524389
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/Guugu Yimithirr - Navodila.pdf:1485637211.29304
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/zbirke/Dnevi.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 6/.idea/Day 6.iml:1482967722.548339
-/1. letnik/2. semester/Operacijski sistemi/Kvizi/K06.png:1493063902.8010318
+/1. letnik/2. semester/Operacijski sistemi/Kvizi/K06.png:1493063902.7697814
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9/.idea/workspace.xml:1481838198.0
-/1. letnik/1. semester/Programiranje 1:1493059877.7398393
+/1. letnik/1. semester/Programiranje 1:1493059664.486493
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12/.idea/misc.xml:1482089887.974372
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17/.idea:1493059829.8127213
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17/.idea:1493059655.0695772
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (10).png:1466439416.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (156).png:1466440744.0
-/1. letnik/2. semester/Podatkovne baze/Predavanja/PB2017-DDL.pdf:1493063908.674893
+/1. letnik/2. semester/Podatkovne baze/Predavanja/PB2017-DDL.pdf:1493063908.640135
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje8/Vaje6.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23/input.txt:1482668102.537207
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN03.class:1492974048.8035312
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4:1493059865.0757854
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4:1493059661.39683
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje7/Tipi.java:1465438156.0
 /1. letnik/2. semester/Podatkovne baze/Predavanja/PB2017-Relacijski model, formalno poizvedovanje.pdf:1489599347.0281246
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2:1493059863.005104
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2:1493059661.0192697
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15/FlowLayoutTest.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea/modules.xml:1483477665.6864052
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/misc.xml:1485611928.6615798
 /1. letnik/2. semester/Operacijski sistemi/Vaje/vaje5-naloge.txt:1493058636.6482322
 /1. letnik/2. semester/Podatkovne baze/Vaje/Vaje 1.sql:1490904183.7194607
 /1. letnik/1. semester/Programiranje 1/Advent/Day 1/.idea/Day 1.iml:1481471664.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 1:1493059810.4663157
+/1. letnik/1. semester/Programiranje 1/Advent/Day 1:1493059649.527591
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/drzaveSP.txt:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/genfiles.properties:1489316767.828144
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/AvtomatskaMeritev.class:1493056433.3702626
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (114).png:1466440660.0
 /1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN03.png:1493063894.9048076
-/1. letnik/2. semester/Raèunalniške komunikacije/Predavanja:1493059787.0089457
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea:1493059885.2585456
+/1. letnik/2. semester/Raèunalniške komunikacije/Predavanja:1493059644.1427732
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea:1493059666.2962663
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7/main.py:1481636432.2222128
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (145).png:1466440720.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea/modules.xml:1481301168.343187
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN01.class:1492974048.8015301
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/Zapisovalec.class:1493056433.3767624
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-9O.pdf:1493063899.5033379
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-9O.pdf:1493063899.4876933
 /1. letnik/2. semester/Programiranje 2/Prosojnice/9-Datoteke.pdf:1468067820.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17/.idea/Day 17.iml:1482610633.3141906
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20110609-RKVB-2-Kolokvij-Sezana.pdf:1491562510.0
 /1. letnik/2. semester/Programiranje 2/Vaje/src/vaje/Vaje1.java:1489316478.777
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/chatServer.py:1492949241.2574518
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/viri:1493059756.395016
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/private/configs:1493059754.54528
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/viri:1493059631.9837599
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/private/configs:1493059631.706118
 /1. letnik/2. semester/Raèunalniške komunikacije/ucenje.docx:1491562536.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 8/.idea:1493059821.838593
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea:1493059885.1403
+/1. letnik/1. semester/Programiranje 1/Advent/Day 8/.idea:1493059651.999528
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/.idea:1493059666.1276252
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea/Naloga 8.iml:1480159390.866176
 /1. letnik/1. semester/Programiranje 1/Advent/Day 8/.idea/workspace.xml:1482067970.0
-/1. letnik/1. semester/Diskretne strukture/Predavanja:1493059804.1400824
+/1. letnik/1. semester/Diskretne strukture/Predavanja:1493059648.6339626
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/.idea/workspace.xml:1492950652.7585282
 /1. letnik/2. semester/Podatkovne baze/Izpiti/Izpit2.pdf:1468068724.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (70).png:1466440318.0
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN05.png:1493063895.7593722
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6a:1493059768.2200515
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22/.idea:1493059834.2098875
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN05.png:1493063895.7437372
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6a:1493059638.6229248
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22/.idea:1493059656.055607
 /1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-1O.pdf:1476811916.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4/.idea/Day 4.iml:1481482461.633014
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/.idea:1493059785.2005553
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/.idea:1493059643.7055614
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN FTP, IM in kriptografija.png:1491562544.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (152).png:1466440736.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (154).png:1466440740.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/modules.xml:1485706130.6710553
-/1. letnik/2. semester/Programiranje 2/Prosojnice:1493059780.3565848
+/1. letnik/2. semester/Programiranje 2/Prosojnice:1493059642.1435926
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/testi.py:1481920368.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/math/geometrija/Kvadrat.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25/.idea/modules.xml:1482660442.767903
@@ -600,12 +600,12 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4/.idea/modules.xml:1481482442.5031133
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/misc.xml:1479269645.0427365
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23/.idea/Day 23.iml:1482536707.1244378
-/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K04.png:1493063899.9291527
-/1. letnik/2. semester/Podatkovne baze/Kvizi/K02.png:1493063906.5295677
+/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K04.png:1493063899.9116955
+/1. letnik/2. semester/Podatkovne baze/Kvizi/K02.png:1493063906.5139432
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/misc.xml:1485706130.5805602
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN05.class:1492974048.809536
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea/Naloga 6.iml:1478664788.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr09progJeziki.pdf:1493063901.2338705
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr09progJeziki.pdf:1493063901.19863
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (23).png:1466439800.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15/GridBagConstraintsTest2.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (101).png:1466440564.0
@@ -617,7 +617,7 @@
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_dopoldan - Rešitve.pdf:1485635214.7767081
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/2 omrezna plast.pdf:1491562452.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 10/main.py:1482062060.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22:1493059832.4175637
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22:1493059655.956004
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga/najveèje število.txt:1483984622.976507
 /1. letnik/2. semester/Podatkovne baze/Vaje/Vaje 3.sql:1490904705.5692928
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/DN06.java:1490888670.2998075
@@ -628,12 +628,12 @@
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_4.jpg:1476810748.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21/.idea/misc.xml:1482384200.2568686
 /1. letnik/2. semester/Raèunalniške komunikacije/rk_vaje2.txt:1491315966.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4/.idea:1493059870.327577
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4/.idea:1493059663.5605237
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10/Sinus.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/podatki.bin:1465438156.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 9:1493059892.8528874
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 9:1493059667.0185509
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/test.py:1481461931.6470854
-/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K06.png:1493063904.040497
+/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K06.png:1493063904.0186996
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea/modules.xml:1478266626.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20/main.py:1482267017.8721085
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/.idea/misc.xml:1492501911.3725965
@@ -648,28 +648,28 @@
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_10.jpg:1476811276.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (40).png:1466440130.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20150707 RK VB 2rok.pdf:1491562490.0
-/1. letnik/2. semester/Podatkovne baze/Vaje/VajePB skupine.pdf:1493063910.209385
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20/.idea:1493059832.19553
+/1. letnik/2. semester/Podatkovne baze/Vaje/VajePB skupine.pdf:1493063910.1937594
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20/.idea:1493059655.70861
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/.idea/modules.xml:1478664774.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/s4.jpeg:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3/.idea/workspace.xml:1482964235.6103265
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr06sistemskaPO.pdf:1493063900.8818474
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr06sistemskaPO.pdf:1493063900.8123744
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (66).png:1466440304.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga/Dokumentacija domaèe naloge.pdf:1483983036.5868728
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23/.idea:1493059837.8742144
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23/.idea:1493059656.2478428
 /1. letnik/2. semester/Programiranje 2/Izpiti/2 izpit/Slika.java:1468067998.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/using.pdf:1485731646.0
-/1. letnik/2. semester/Operacijski sistemi/Izpiti:1493059679.1933398
+/1. letnik/2. semester/Operacijski sistemi/Izpiti:1493059618.5587208
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/Neobvezna naloga (extra toèke) - urejanje števil.rar:1483984484.5174687
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_6.jpg:1476811260.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode:1493059865.2812622
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode:1493059661.5560548
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (19).png:1466439676.0
-/1. letnik/1. semester/Matematika/Vaje:1493059810.2823749
-/1. letnik/2. semester/Podatkovne baze/Vaje/Vaje 5.sql:1493063909.0936828
-/1. letnik/2. semester/Programiranje 2:1493059780.5379145
+/1. letnik/1. semester/Matematika/Vaje:1493059649.3170924
+/1. letnik/2. semester/Podatkovne baze/Vaje/Vaje 5.sql:1493063909.057992
+/1. letnik/2. semester/Programiranje 2:1493059642.2575505
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (151).png:1466440734.0
 /1. letnik/2. semester/Podatkovne baze/Izpiti/Izpit1.pdf:1468068718.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea:1493059865.813884
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori/.idea:1493059662.1377385
 /1. letnik/1. semester/Programiranje 1/Advent/Day 5/main.py:1481563164.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16/.idea/workspace.xml:1482181788.8944392
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/6 Zascita in kriptiranje PREDAVANJE.pdf:1491562456.0
@@ -679,7 +679,7 @@
 /1. letnik/1. semester/Matematika/Predavanja/01_stevila.pdf:1476811796.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/Network-Kruse-2013.pdf:1491562450.0
 /1. letnik/2. semester/Programiranje 2/Vaje/nbproject/genfiles.properties:1489316399.1564374
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016:1493059885.0887773
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016:1493059666.0116472
 /1. letnik/1. semester/Programiranje 1/Advent/Day 3/input.txt:1481480042.0
 /1. letnik/2. semester/Podatkovne baze/Izpiti/Izpit4.pdf:1468068728.0
 /1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN10.png:1493063895.2900388
@@ -690,18 +690,18 @@
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 8/sprotna naloga 8.txt:1481621193.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16/.idea/Day 16.iml:1482167891.5237262
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/6.februar_popoldan.py:1485719520.063042
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21/.idea:1493059832.3427117
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21/.idea:1493059655.8396275
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1/.idea/workspace.xml:1481476920.009609
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3/.idea/workspace.xml:1481482442.1777496
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_16.jpg:1476811296.0
-/1. letnik/2. semester/Operacijski sistemi/Kvizi/K07.png:1493063903.1392515
+/1. letnik/2. semester/Operacijski sistemi/Kvizi/K07.png:1493063902.9389994
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_popoldan - Navodila.pdf:1485635603.4274416
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (16).png:1466439606.0
-/1. letnik/1. semester/Matematika/Predavanja/04_vrste_funkcije.pdf:1493063896.4285676
+/1. letnik/1. semester/Matematika/Predavanja/04_vrste_funkcije.pdf:1493063896.4243596
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/promet.pcapng:1492367499.0567238
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/.idea:1493059866.1886134
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/.idea:1493059662.6826816
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/generated-sources/ap-source-output:1492973989.4536312
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/DN09.java:1493418085.4551165
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/DN09.java:1493418085.4646325
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (57).png:1466440270.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5/.idea/Day 5.iml:1481560482.1351407
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/pesem.txt:1465438156.0
@@ -710,36 +710,36 @@
 /1. letnik/2. semester/Programiranje 2/Vaje/build.xml:1489316399.1574385
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (159).png:1466440748.0
 /1. letnik/2. semester/Programiranje 2/Izpiti/2 izpit/VonjZelezniskihPostaj.java:1468068008.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/testdolocil:1493059770.4596808
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/testdolocil:1493059640.092547
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4/input.txt:1481482839.1015716
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15/input.txt:1482436229.1129515
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/dist:1493059752.9121869
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/dist:1493059631.4692597
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/hoteli/HotelZBazenom.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19/.idea/workspace.xml:1482242385.2175179
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje4/Branje.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20140804 RK Prvi kolokvij.pdf:1491562492.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri:1493059772.5760984
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr08informacijskaVarnost.pdf:1493063901.1139364
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija:1493059856.679096
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri:1493059641.288283
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr08informacijskaVarnost.pdf:1493063901.098313
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija:1493059659.632934
 /1. letnik/1. semester/Matematika/Vaje/av01_matb_1617.pdf:1476811830.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/okna/JDialogTest.java:1465438156.0
-/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K05.png:1493063903.9874465
+/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K05.png:1493063903.9718213
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (103).png:1466440570.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (86).png:1466440528.0
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN06.png:1493063895.089659
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN06.png:1493063895.0740335
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/input.txt:1481378968.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_popoldan - Navodila.pdf:1485634957.8289485
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 7/.idea/modules.xml:1481826278.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18/.idea/Day 18.iml:1482164194.9582188
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_17.jpg:1476811300.0
-/1. letnik/2. semester/Podatkovne baze/Kvizi:1493063906.5295677
-/1. letnik/1. semester/Programiranje 1/Advent/Day 16:1493059812.6260207
+/1. letnik/2. semester/Podatkovne baze/Kvizi:1493063906.498318
+/1. letnik/1. semester/Programiranje 1/Advent/Day 16:1493059650.1571715
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6/Pozdrav.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/19. februar_dopoldan - Rešitve.pdf:1485636122.7123244
-/1. letnik/2. semester/Operacijski sistemi/Kvizi/K03.png:1493063902.6334496
-/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K02.png:1493063903.8715909
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14:1493059761.8919566
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 11:1493059892.752842
+/1. letnik/2. semester/Operacijski sistemi/Kvizi/K03.png:1493063902.600193
+/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K02.png:1493063903.840231
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14:1493059636.064698
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 11:1493059666.9816806
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/main.py:1480699416.2873046
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 7/.idea/workspace.xml:1481832860.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6/.idea/workspace.xml:1481569636.486231
@@ -747,28 +747,28 @@
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/dist/Doma_e_naloge.jar:1492973991.9739892
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_8.jpg:1476810732.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/5.txt:1480685838.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-10O.pdf:1493063898.0305712
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-10O.pdf:1493063897.993294
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/6.februar_dopoldan.py:1485714592.9891822
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-6O.pdf:1493063898.726681
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-6O.pdf:1493063898.6944728
 /1. letnik/1. semester/Programiranje 1/Advent/Day 4/input.txt:1481482840.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (15).png:1466439562.0
 /1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/2.domaèa naloga/dn2test.zip:1492190076.084695
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10/input.txt:1482057445.8044062
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (79).png:1466440354.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17:1493059829.7594316
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17:1493059654.9683783
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_3.jpg:1476810750.0
 /1. letnik/2. semester/Podatkovne baze/Predavanja/PB2017-Indeksiranje, podprogrami.pdf:1493063908.8406632
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/risar.py:1481890722.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (113).png:1466440658.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (90).png:1466440538.0
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN06.png:1493063895.8062377
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN06.png:1493063895.7906249
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15/.idea/workspace.xml:1482438716.2239568
 /1. letnik/2. semester/Raèunalniške komunikacije/Predavanja/4_transportna_plast2.pdf:1464447946.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21/main.py:1482432688.044917
 /1. letnik/2. semester/Programiranje 2/Vaje/nbproject/project.xml:1489316398.3193347
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (62).png:1466440290.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN03.rs:1492974048.8215456
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5:1493059839.9940908
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5:1493059656.8284595
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/main.py:1483731186.493911
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_1.jpg:1476810714.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (129).png:1466440690.0
@@ -780,15 +780,15 @@
 /1. letnik/2. semester/Programiranje 2/Vaje/nbproject/private/private.properties:1489316402.166227
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20150825 RK VB 3rok.pdf:1491562480.0
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/OS16062010.pdf:1340022054.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12/.idea:1493059826.718093
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12/.idea:1493059654.117258
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10/.idea/workspace.xml:1482620489.0449226
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN09.class:1493056433.3692503
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9/input.txt:1482074981.3132153
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/CHF2015.txt:1465438156.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 12/.idea:1493059812.579141
+/1. letnik/1. semester/Programiranje 1/Advent/Day 12/.idea:1493059650.074482
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20151604 RK Prvi kolokvij.pdf:1491562488.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15/.idea/modules.xml:1482433017.2974792
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga:1493059890.3161652
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga:1493059666.766225
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/DN05.java:1490889289.3416185
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (149).png:1466440728.0
 /1. letnik/2. semester/Operacijski sistemi/Vaje/vaje7-naloge.txt:1493058636.9061363
@@ -801,21 +801,21 @@
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/vmesnik/Sinus.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (32).png:1466440038.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/input.txt:1482961937.6327024
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16/.idea:1493059829.2571814
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16/.idea:1493059654.937181
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/misc.xml:1480608903.0308466
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje8/Graf.java:1465438156.0
 /1. letnik/1. semester/Diskretne strukture/Predavanja/pravila_sklepanja.pdf:1476811708.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9/.idea:1493059877.7192216
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9/.idea:1493059664.472377
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/DN02.java:1489316704.9240437
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2/.idea:1493059868.3592432
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2/.idea:1493059663.2234566
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build.xml:1489316767.8286445
 /1. letnik/2. semester/Podatkovne baze/Delovni zvezki/Napredni SQL.url:1491153099.256107
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6/input.txt:1481569207.031562
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (47).png:1466440220.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4/.idea:1493059838.2437038
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4/.idea:1493059656.7927942
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013/23.januar_popoldan - Navodila.pdf:1485635802.904453
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016:1493059842.4287918
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19:1493059830.09411
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016:1493059657.4132516
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19:1493059655.2545595
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/modules.xml:1480608903.0698202
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17/.idea/workspace.xml:1482801433.040912
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/.idea/misc.xml:1478090992.0
@@ -827,17 +827,17 @@
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/.idea/Vaje 11.iml:1483717163.3834982
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6/Razred1.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/test/results:1492974042.3000312
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN02.png:1493063895.6258235
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN02.png:1493063895.6056895
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17/main.py:1482801429.9665623
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/pisni izpit - 20.6.2012.pdf:1368259378.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 8/.idea/modules.xml:1481636572.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/DataInputStreamTest.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/workspace.xml:1483460226.6372359
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06:1493059785.1540227
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes:1493059750.8557146
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06:1493059643.6243923
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes:1493059630.9640102
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea/workspace.xml:1485725405.405593
 /1. letnik/2. semester/Programiranje 2/Prosojnice/5-PodatkovniTipiInKonstante.pdf:1468067808.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/.idea:1493059823.3305233
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/.idea:1493059652.4336932
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (29).png:1466440020.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN06.rs:1492974048.8245466
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (27).png:1466440014.0
@@ -847,7 +847,7 @@
 /1. letnik/1. semester/Programiranje 1/docs-pdf/library.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3/.idea/misc.xml:1481480014.2939146
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/testdolocil/ETest.java:1465438156.0
-/1. letnik/1. semester/Matematika/Predavanja/11_integral_vektorji.pdf:1493063896.9615672
+/1. letnik/1. semester/Matematika/Predavanja/11_integral_vektorji.pdf:1493063896.9459925
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (52).png:1466440248.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5/Pretvorba.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/Krog.java:1465438156.0
@@ -857,8 +857,8 @@
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5/.idea/Vaje 5.iml:1481820698.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/DN08.java:1492181548.5733473
 /1. letnik/1. semester/Programiranje 1/Advent/Day 6/.idea/misc.xml:1481568048.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr05organizacijaRacSistemov.pdf:1493063900.6657147
-/1. letnik/2. semester/Programiranje 2/Vaje/build/classes:1493059780.7383103
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr05organizacijaRacSistemov.pdf:1493063900.6122544
+/1. letnik/2. semester/Programiranje 2/Vaje/build/classes:1493059642.403058
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 7/sprotna naloga 7.txt:1481016368.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (105).png:1466440574.0
 /1. letnik/2. semester/Podatkovne baze/Vaje/VajePostgres.txt:1493058636.9217627
@@ -867,26 +867,26 @@
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_2.jpg:1476810750.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN04.class:1492974048.8045328
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 23/.idea/misc.xml:1482536692.0693548
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 7/.idea:1493059870.6953547
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 7/.idea:1493059663.9613426
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje2/Args.java:1465438156.0
 /1. letnik/2. semester/Podatkovne baze/Vaje/Vaje 4.sql:1491044502.3394017
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_8.jpg:1476810762.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18/.idea:1493059830.0320992
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18/.idea:1493059655.2233129
 /1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K03.png:1493063903.9028604
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/BufferedInputStreamWithArray.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/.idea/modules.xml:1485780710.039642
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25/input.txt:1482662926.737395
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/okna/JWindowTest.java:1465438156.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3:1493059868.4259188
-/1. letnik/1. semester/Diskretne strukture/Snov:1493059805.1874425
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/zbirke:1493059761.43584
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3:1493059663.323502
+/1. letnik/1. semester/Diskretne strukture/Snov:1493059648.9976685
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/zbirke:1493059635.030825
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_dopoldan - Rešitve.pdf:1485635574.7879653
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015:1493059884.571127
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015:1493059665.596027
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/armv4t-instruction-set.pdf:1476811946.0
-/1. letnik/2. semester/Programiranje 2/Vaje/nbproject:1493059782.6750684
+/1. letnik/2. semester/Programiranje 2/Vaje/nbproject:1493059642.6076012
 /1. letnik/1. semester/Programiranje 1/Advent/Day 5/.idea/Day 5.iml:1481560484.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/.idea/LDN06.iml:1492501990.3997295
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja:1493063899.5033379
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja:1493063899.4493265
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_dopoldan.py:1485790194.9670966
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/.idea/misc.xml:1481832884.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (141).png:1466440714.0
@@ -894,32 +894,32 @@
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100622-RKVSP-2 Izpit 3L.pdf:1491562520.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/main.py:1481833328.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100622-RKVSP-2 Izpit 3L-v2.pdf:1491562498.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2/.idea:1493059823.475736
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4:1493059823.7236037
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2/.idea:1493059652.687714
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4:1493059652.9665327
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje8/Tabela.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Vaje/Vaje 2 - Povezavna plast.docx:1489578122.084714
 /1. letnik/2. semester/Raèunalniške komunikacije/Vaje/Vaje 4 - IPv6.docx:1490869732.1983857
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/math/geometrija:1493059770.4127865
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/math/geometrija:1493059639.9480186
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/.idea/workspace.xml:1481833508.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100407-RKVB-1-Kolokvij.pdf:1491562528.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga/kopiranje niza.txt:1483984544.681745
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/__pycache__/risar.cpython-35.pyc:1481890890.0
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN07.png:1493063895.8596284
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN07.png:1493063895.8440025
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (119).png:1466440670.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/19.februar_dopoldan.py:1485706117.4301965
-/1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko:1493059742.1673133
+/1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko:1493059629.767584
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/main.py:1478724450.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/main.py:1482962151.660197
 /1. letnik/1. semester/Programiranje 1/Advent/Day 16/main.py:1482169508.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 19/.idea:1493059812.9141767
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje7:1493059770.0278344
+/1. letnik/1. semester/Programiranje 1/Advent/Day 19/.idea:1493059650.6503417
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje7:1493059638.8241782
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_dopoldan2015.py:1485639537.7633398
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_2.jpg:1476810716.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4/.idea/misc.xml:1478261870.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/.idea/misc.xml:1483642515.8614414
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/Naloga 13.iml:1483719705.9994655
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10/.idea:1493059826.5520673
-/1. letnik/2. semester/Programiranje 2/Vaje/build:1493059780.569199
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10/.idea:1493059653.91726
+/1. letnik/2. semester/Programiranje 2/Vaje/build:1493059642.36001
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/izjeme/ObravnavanjeIzjem.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20122805 RKVB-Kolokvij_2s-2012.pdf:1491562496.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/viri/temperature1.txt:1493047995.354194
@@ -933,17 +933,17 @@
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (136).png:1466440704.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12/input.txt:1482093041.245
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/.idea/modules.xml:1483717103.664997
-/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/1.domaèa naloga:1493059676.772736
-/1. letnik/1. semester/Programiranje 1/.idea:1493059810.387811
+/1. letnik/2. semester/Operacijski sistemi/Domaèe naloge/1.domaèa naloga:1493059617.9430506
+/1. letnik/1. semester/Programiranje 1/.idea:1493059649.4650877
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-cporting.pdf:1485731646.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (153).png:1466440738.0
 /1. letnik/2. semester/Programiranje 2/Vaje/build/classes/vaje/Vaje6.class:1491818798.7765305
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2/.idea/misc.xml:1476361548.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5/.idea:1493059840.125603
-/1. letnik/1. semester/Programiranje 1/Advent/Day 2/.idea:1493059814.7973766
-/1. letnik/1. semester/Programiranje 1/Advent/Day 12:1493059812.5351095
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5/.idea:1493059656.9439209
+/1. letnik/1. semester/Programiranje 1/Advent/Day 2/.idea:1493059650.8318412
+/1. letnik/1. semester/Programiranje 1/Advent/Day 12:1493059649.905731
 /1. letnik/1. semester/Programiranje 1/Advent/Day 18/.idea/Day 18.iml:1482164196.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19/.idea:1493059830.144804
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19/.idea:1493059655.3521347
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/modules.xml:1479269645.0895772
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/topologija.png:1492365732.331029
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6/main.py:1481569505.4492674
@@ -953,40 +953,40 @@
 /1. letnik/1. semester/Programiranje 1/Advent/Day 10/.idea/misc.xml:1482056844.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (24).png:1466439810.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/modules.xml:1483719657.5542989
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea:1493059856.7281303
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/.idea:1493059659.8180375
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100408-RKVBSezana-1-Kolokvij-A.pdf:1491562532.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (160).png:1466440752.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20/.idea/Day 20.iml:1482247229.122416
-/1. letnik/1. semester/Programiranje 1/Advent/Day 5:1493059819.615189
+/1. letnik/1. semester/Programiranje 1/Advent/Day 5:1493059651.3612404
 /1. letnik/1. semester/Programiranje 1/Advent/Day 10/.idea/Day 10.iml:1482056854.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12/.idea/workspace.xml:1482245526.0973375
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (65).png:1466440302.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/__pycache__:1493059866.2136252
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/__pycache__:1493059662.7578096
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25/main.py:1482667000.9513078
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10/Bonsai.java:1465438156.0
-/1. letnik/2. semester/Raèunalniške komunikacije/RK:1493059800.7168386
+/1. letnik/2. semester/Raèunalniške komunikacije/RK:1493059648.314038
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 5/input.txt:1482967502.024179
 /1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN13.png:1493063895.4274874
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/Hrèek na kolesu - Navodila.pdf:1485636488.6429217
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2014_2015/3. februar_dopoldan - Navodila.pdf:1485635096.9878826
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_1.jpg:1476811246.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16/.idea/modules.xml:1482167879.2277043
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 6/.idea:1493059870.567882
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN04.png:1493063894.9893975
-/1. letnik/1. semester:1493059892.8688996
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 6/.idea:1493059663.8399475
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN04.png:1493063894.9737737
+/1. letnik/1. semester:1493059667.0185509
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (54).png:1466440254.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5/.idea/workspace.xml:1482660442.0332716
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/zbirke/Meseci.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 5/.idea/workspace.xml:1481568048.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (124).png:1466440680.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (112).png:1466440656.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/.idea:1493059870.8185027
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/.idea:1493059664.1653776
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (94).png:1466440548.0
-/1. letnik:1493059802.4112306
+/1. letnik:1493059648.5332806
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10/.idea/Day 10.iml:1482056853.6547952
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/22.januar_dopoldan - Navodila.pdf:1485635519.7364736
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/.idea/workspace.xml:1481895650.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15:1493059764.0255933
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15:1493059636.712333
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje9/Drevesnica.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 18/.idea/workspace.xml:1482243814.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/.idea/misc.xml:1481890800.0
@@ -1000,20 +1000,20 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21/input.txt:1482432805.771182
 /1. letnik/1. semester/Programiranje 1/Advent/Day 10/.idea/modules.xml:1482056844.0
 /1. letnik/1. semester/Diskretne strukture/Vaje/03_dsvsp_1617.pdf:1476811752.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9:1493059877.681124
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9:1493059664.3714077
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (81).png:1466440364.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6:1493059768.156545
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje6:1493059638.4540987
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 11/sprotne naloge 11.txt:1483462356.7430973
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN TCP in UDP.png:1491562550.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2:1493059823.4132354
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja:1493063902.1530888
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2:1493059652.5162127
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja:1493063902.084061
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4/.idea/workspace.xml:1481560460.7636523
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN DNS.png:1491562548.0
 /1. letnik/2. semester/Podatkovne baze/Delovni zvezki/Relacijska algebra.url:1491243611.303444
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13/jj.py:1482684325.7360246
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-functional.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-sockets.pdf:1485731646.0
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea:1493059884.023132
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/.idea:1493059665.2441525
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (44).png:1466440160.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 5/.idea/modules.xml:1481560461.2897682
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13/.idea/modules.xml:1482618167.8734972
@@ -1027,12 +1027,12 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3/.idea/Day 3.iml:1482963358.6239383
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 5 - Moduli in metode/main.py:1485645128.4068227
 /1. letnik/2. semester/Podatkovne baze/TEORIJA-1.kolokvij.docx:1491741047.637321
-/1. letnik/1. semester/Programiranje 1/Advent/Day 16/.idea:1493059812.6789052
+/1. letnik/1. semester/Programiranje 1/Advent/Day 16/.idea:1493059650.3071818
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9/.idea/workspace.xml:1482089885.6626706
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 21/.idea/workspace.xml:1482433016.9181852
-/1. letnik/1. semester/Matematika/Snov:1493059810.1978571
+/1. letnik/1. semester/Matematika/Snov:1493059649.2702286
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (68).png:1466440310.0
-/1. letnik/2. semester/Raèunalniške komunikacije/Kvizi:1493063923.429491
+/1. letnik/2. semester/Raèunalniške komunikacije/Kvizi:1493063923.3608203
 /1. letnik/1. semester/Programiranje 1/Advent/Day 3/.idea/modules.xml:1481480016.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 4/sprotna naloga 4.txt:1479203155.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (126).png:1466440684.0
@@ -1048,7 +1048,7 @@
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN IPv6.png:1491562552.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/Dokumentacija urejanje števil v zbirniku.pdf:1483984356.44699
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/.idea/misc.xml:1476367622.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-5O.pdf:1493063898.494536
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-5O.pdf:1493063898.3786092
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/.idea/misc.xml:1476937210.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Predavanja/0 Uvod.pdf:1459683516.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (140).png:1466440710.0
@@ -1057,9 +1057,9 @@
 /1. letnik/1. semester/Diskretne strukture/Vaje/01_dsvsp_1617.pdf:1476811748.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18/.idea/workspace.xml:1482243812.2467327
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga/Domaèa naloga.txt:1483984451.7964408
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr11prevajalniki.pdf:1493063902.0370631
-/1. letnik/2. semester/Operacijski sistemi/Kvizi:1493063903.1392515
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5/.idea:1493059870.4681847
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr11prevajalniki.pdf:1493063901.9841797
+/1. letnik/2. semester/Operacijski sistemi/Kvizi:1493063902.8372886
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5/.idea:1493059663.707671
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje7/StringBufferTest.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea/workspace.xml:1483477665.360253
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (75).png:1466440340.0
@@ -1068,18 +1068,18 @@
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20150622 RKVB izpit.pdf:1491562478.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/main.py:1481895620.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1/main.py:1481635249.8035393
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/__pycache__:1493059862.8880749
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje3:1493059764.3571417
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/__pycache__:1493059660.890308
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje3:1493059637.3193357
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (144).png:1466440720.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3:1493059863.207757
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 5/.idea:1493059825.6645813
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3:1493059661.2191133
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 5/.idea:1493059653.3328693
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 3/sprotna naloga 3.txt:1479154950.0
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/izpitOS100715 (1).pdf:1464781002.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/MnozicaOseb.java:1465438156.0
-/1. letnik/2. semester/Raèunalniške komunikacije/Vaje:1493059802.3865438
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN10.png:1493063896.1226084
+/1. letnik/2. semester/Raèunalniške komunikacije/Vaje:1493059648.511462
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN10.png:1493063896.0913384
 /1. letnik/1. semester/Programiranje 1/Advent/Day 8/.idea/misc.xml:1481636572.0
-/1. letnik/2. semester/Programiranje 2/Vaje/src:1493059782.7479205
+/1. letnik/2. semester/Programiranje 2/Vaje/src:1493059642.704863
 /1. letnik/2. semester/Programiranje 2/Vaje/viri/imenik.txt:1493027122.9221728
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20/.idea/workspace.xml:1482609823.4810505
 /1. letnik/1. semester/Programiranje 1/Advent/Day 12/.idea/misc.xml:1482089888.0
@@ -1087,9 +1087,9 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17/.idea/modules.xml:1482610519.9045365
 /1. letnik/1. semester/Programiranje 1/Advent/Day 2/input.txt:1481478714.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10/Drevo.java:1465438156.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4:1493059838.2008004
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/x:1493059772.6339953
-/1. letnik/1. semester/Raèunalniška arhitektura/Snov:1493059889.948008
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4:1493059656.6580162
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/x:1493059641.3861299
+/1. letnik/1. semester/Raèunalniška arhitektura/Snov:1493059666.6329894
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (55).png:1466440260.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/dolocila/G1.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4/.idea/workspace.xml:1482964857.731357
@@ -1099,18 +1099,18 @@
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10/Newton.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (36).png:1466440080.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/URLRead.java:1465438156.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr02nacrtovanjeAlgoritmov.pdf:1493063900.04933
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr02nacrtovanjeAlgoritmov.pdf:1493063900.0336251
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5/BSDCheckSum.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/modules.xml:1485611928.715303
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_7.jpg:1476810762.0
-/1. letnik/2. semester/Programiranje 2/Vaje/src/vaje:1493059782.8629942
+/1. letnik/2. semester/Programiranje 2/Vaje/src/vaje:1493059642.7770956
 /1. letnik/2. semester/Programiranje 2/Izpiti/2 izpit/Naloga21.java:1468067984.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 6/main.py:1481826208.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 7/.idea/Day 7.iml:1481569792.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 6/.idea/modules.xml:1481825132.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 17/.idea/misc.xml:1482610519.8534684
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 7/main.py:1481832826.0
-/1. letnik/1. semester/Diskretne strukture:1493063894.7426374
+/1. letnik/1. semester/Diskretne strukture:1493063894.7048745
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3/.idea/misc.xml:1477652978.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 9/.idea/workspace.xml:1482089886.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5/Kodiranje.java:1465438156.0
@@ -1121,10 +1121,10 @@
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/turtle.py:1483460136.0831718
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (26).png:1466440010.0
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_6.jpg:1476810730.0
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/test:1493059751.135454
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/build/test:1493059631.4379957
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15/.idea/misc.xml:1482433017.271713
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj:1493059770.4753222
-/1. letnik/1. semester/Matematika/Predavanja/06_funkcije.pdf:1493063896.5758371
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj:1493059640.1351936
+/1. letnik/1. semester/Matematika/Predavanja/06_funkcije.pdf:1493063896.5602455
 /1. letnik/1. semester/Programiranje 1/Advent/Day 2/.idea/misc.xml:1481476922.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12/zbirke/DneviArrayList.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea/workspace.xml:1480159287.3204756
@@ -1138,28 +1138,28 @@
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11/hoteli/Hotel.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15/GridLayoutTest.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN08.class:1492974048.812538
-/1. letnik/2. semester/Programiranje 2/Vaje/viri:1493059782.9164083
+/1. letnik/2. semester/Programiranje 2/Vaje/viri:1493059642.8577323
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/main.py:1483477613.9967306
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100629RK pisni izpit Lj.pdf:1491562518.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 5/.idea/misc.xml:1482964857.9872277
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1:1493059826.301152
-/1. letnik/1. semester/Programiranje 1/Advent/Day 10/.idea:1493059812.4335375
-/1. letnik/1. semester/Programiranje 1/Advent/Day 18:1493059812.7260027
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 5:1493059825.600811
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1:1493059653.5859218
+/1. letnik/1. semester/Programiranje 1/Advent/Day 10/.idea:1493059649.7797422
+/1. letnik/1. semester/Programiranje 1/Advent/Day 18:1493059650.3717368
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 5:1493059653.1812923
 /1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr01uvod.pdf:1476812048.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/.idea:1493059865.127116
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10:1493059760.8223264
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/.idea:1493059661.4823446
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10:1493059633.7576869
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16/.idea/misc.xml:1482167879.1911788
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13:1493059826.905939
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13:1493059654.164132
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/7.txt:1480685838.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 4/.idea/misc.xml:1482964235.8575017
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/8.txt:1480685838.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/faq.pdf:1485731646.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-7O.pdf:1493063899.0123062
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/okna:1493059761.9710896
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-7O.pdf:1493063898.9801385
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/okna:1493059636.1505544
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/dodatna.py:1476458082.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi:1493063899.9276469
-/1. letnik/2. semester/Podatkovne baze/Izpiti:1493059742.534758
+/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi:1493063899.9116955
+/1. letnik/2. semester/Podatkovne baze/Izpiti:1493059630.1508875
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/main.py:1482533255.337629
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (123).png:1466440678.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (158).png:1466440746.0
@@ -1172,68 +1172,68 @@
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/DN09$1.class:1493056433.3712547
 /1. letnik/1. semester/Programiranje 1/.idea/Programiranje 1.iml:1485781147.5943117
 /1. letnik/2. semester/Operacijski sistemi/Predavanja/OS_AvditorneNaloge_2013-2014.pdf:1465299152.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice:1493059865.4588652
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice:1493059661.719796
 /1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-2P.pdf:1476811932.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea:1493059865.6829493
-/1. letnik/2. semester/Programiranje 2/Izpiti:1493059758.418486
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 7 - Izpeljani seznami, množice, slovarji, generatorji/.idea:1493059662.0281281
+/1. letnik/2. semester/Programiranje 2/Izpiti:1493059632.3270454
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/15.februar_dopoldan - Rešitve.pdf:1485636031.0192993
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/PrimerScannner.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/example2.txt:1481913504.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6:1493059840.2202039
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6:1493059656.9751935
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/risar.py:1484908048.3082898
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/build-impl.xml:1489316767.8086307
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4/main.py:1478265628.0
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_9.jpg:1476811274.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (132).png:1466440696.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 5/.idea:1493059819.6620977
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7/.idea:1493059842.244864
+/1. letnik/1. semester/Programiranje 1/Advent/Day 5/.idea:1493059651.4769182
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7/.idea:1493059657.2126741
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (138).png:1466440708.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 19/.idea/misc.xml:1482181790.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12:1493059826.63342
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 12:1493059654.0016272
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/projekt/untitled.gns3.backup4:1492370993.6223683
 /1. letnik/2. semester/Operacijski sistemi/Predavanja/OS2014.pdf:1489599854.3249142
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami:1493059865.9947515
-/1. letnik/2. semester/Podatkovne baze/Vaje/VajePBmarec.pdf:1493063910.8426037
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9/.idea:1493059842.5252073
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014:1493059883.971245
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami:1493059662.4009578
+/1. letnik/2. semester/Podatkovne baze/Vaje/VajePBmarec.pdf:1493063910.8113022
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9/.idea:1493059657.56146
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014:1493059665.1267657
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2/.idea/Vaje 2.iml:1476361606.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 20/input.txt:1482247252.0
-/1. letnik/2. semester/Podatkovne baze/Vaje/VajeRelAlg2017.pdf:1493063914.1069412
+/1. letnik/2. semester/Podatkovne baze/Vaje/VajeRelAlg2017.pdf:1493063914.0883508
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/vreme.txt:1480685210.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN02.class:1492974048.802531
 /1. letnik/2. semester/Osnove verjetnosti in statistike/skripta.pdf:1489600007.6709619
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/DataOutputStreamTest.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/.idea/workspace.xml:1482962169.9806645
-/1. letnik/2. semester/Podatkovne baze/Predavanja:1493063908.8406632
+/1. letnik/2. semester/Podatkovne baze/Predavanja:1493063908.7404003
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/63160093.zip:1492370687.6360323
 /1. letnik/1. semester/Matematika/Predavanja/05_funkcije.pdf:1493063896.4914362
 /1. letnik/2. semester/Raèunalniške komunikacije/Predavanja/1 Fizièna in povezavna plast.pdf:1459683525.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje:1493059892.8198938
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10:1493059826.49355
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 5:1493059892.660769
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/.idea:1493059863.043785
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje:1493059667.0089679
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 10:1493059653.7589989
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 5:1493059666.9144113
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/.idea:1493059661.1505857
 /1. letnik/2. semester/Programiranje 2/Izpiti/2 izpit/Naloga22.java:1468067992.0
-/1. letnik/1. semester/Diskretne strukture/Vaje:1493059806.51079
-/1. letnik/1. semester/Programiranje 1/Advent/Day 4:1493059817.7537405
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6/.idea:1493059840.2981062
+/1. letnik/1. semester/Diskretne strukture/Vaje:1493059649.0467246
+/1. letnik/1. semester/Programiranje 1/Advent/Day 4:1493059651.2456188
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6/.idea:1493059657.0953476
 /1. letnik/2. semester/Podatkovne baze/Predavanja/PB2017-Osnovni SQL.pdf:1489599336.6831043
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Neobvezna naloga (extra toèke) - urejanje števil/Dokumentacija urejanje števil v zbirniku.docx:1483984337.0710952
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/2016 1104 RK prvi kolokvij SLO.pdf:1491562482.0
-/1. letnik/2. semester/Programiranje 2/Vaje/nbproject/private:1493059782.7322962
+/1. letnik/2. semester/Programiranje 2/Vaje/nbproject/private:1493059642.6579883
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/izpitOS280815 (1).pdf:1464780998.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 9/.idea/modules.xml:1482067969.432328
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22/.idea/modules.xml:1482669221.3277926
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/Naloga 12.iml:1482533334.8007424
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge:1493059754.7140455
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge:1493059631.7746203
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20140609-rkvb-izpit1.pdf:1491562484.0
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_4.jpg:1476811254.0
-/1. letnik/2. semester/Podatkovne baze/Vaje:1493063914.1069412
+/1. letnik/2. semester/Podatkovne baze/Vaje:1493063914.0379505
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (78).png:1466440352.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1/.idea/misc.xml:1481471560.1399536
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/pisni izpit - 4.7.2012.pdf:1368259400.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1/.idea:1493059826.363864
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 1/.idea:1493059653.7120717
 /1. letnik/2. semester/Programiranje 2/Vaje/viri/pesem.txt:1491683961.128
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 8:1493059842.3328297
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 8:1493059657.2595894
 /1. letnik/1. semester/Diskretne strukture/Predavanja/dsvsp-predavanja.pdf:1476811598.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/Drzava.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/chatClient.py:1492948881.7331548
@@ -1244,49 +1244,49 @@
 /1. letnik/1. semester/Programiranje 1/Advent/Day 8/main.py:1482067798.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 12/.idea/Day 12.iml:1482089924.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/StdDraw.class:1492974048.841063
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje:1493059862.8801794
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje:1493059660.890308
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 4/.idea/modules.xml:1478261870.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (82).png:1466440506.0
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_14.jpg:1476811290.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/.idea/misc.xml:1477576610.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/x/Znaki-utf8.txt:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/Meritev.class:1493056433.3727558
-/1. letnik/1. semester/Programiranje 1/Advent/Day 6:1493059819.7846663
+/1. letnik/1. semester/Programiranje 1/Advent/Day 6:1493059651.5357432
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 3/.idea/modules.xml:1481480014.3390276
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_5.jpg:1476811258.0
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_22.jpg:1476811316.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/tabele.txt:1492373540.7860425
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (20).png:1466439708.0
-/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 8:1493059892.7908695
+/1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 8:1493059666.9816806
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (61).png:1466440286.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10/Drevesnica.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 1/.idea/modules.xml:1482961919.6423028
 /1. letnik/1. semester/Programiranje 1/Advent/Day 12/input.txt:1482093042.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/workspace.xml:1481301166.8738315
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (121).png:1466440674.0
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN03.png:1493063917.550149
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 1:1493059856.5575354
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN03.png:1493063917.518899
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 1:1493059659.5486588
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 2/popolnoma_dodatna.py:1476458586.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/distributing.pdf:1485731646.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (35).png:1466440074.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (31).png:1466440028.0
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN08.png:1493063895.9286394
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN08.png:1493063895.9065037
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/configs/DN.properties:1490285425.1902454
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN1.png:1491562538.0
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN04.png:1493063917.7343433
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN04.png:1493063917.7030475
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7/input.txt:1481636367.264
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (115).png:1466440662.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7/.idea/Day 7.iml:1481569791.022596
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/.idea/Naloga 9.iml:1480608976.3704574
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/.netbeans_update_resources:1492974048.862133
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16:1493059829.2102313
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 16:1493059654.7863927
 /1. letnik/1. semester/Programiranje 1/Advent/Day 1/.idea/misc.xml:1481471562.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/private/configs/DN.properties:1490285425.2396326
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/1. domaèa naloga - Fizièna plast.docx:1488534151.788364
 /1. letnik/1. semester/Matematika/Snov/New Doc 1_3.jpg:1476810712.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25:1493059837.9500482
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 25:1493059656.3271537
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje4/Tecaj.java:1465438156.0
-/1. letnik/2. semester/Programiranje 2/Vaje/build/classes/paket:1493059780.7070074
+/1. letnik/2. semester/Programiranje 2/Vaje/build/classes/paket:1493059642.3874328
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje10/Drevesnica1.java:1465438156.0
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2013_2014/6.februar_dopoldan - Rešitve.pdf:1485636186.7432215
 /1. letnik/1. semester/Programiranje 1/Advent/Day 5/.idea/misc.xml:1481560462.0
@@ -1294,9 +1294,9 @@
 /1. letnik/1. semester/Programiranje 1/docs-pdf/whatsnew.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 2/main.py:1476367402.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05/projekt/screenshot.png:1492336662.4723
-/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K09.png:1493063904.4721327
+/1. letnik/2. semester/Osnove verjetnosti in statistike/Kvizi/K09.png:1493063904.3881662
 /1. letnik/1. semester/Diskretne strukture/Predavanja/izjavni_izrazi.pdf:1476811652.0
-/1. letnik/2. semester/Programiranje 2/Vaje:1493059782.8982756
+/1. letnik/2. semester/Programiranje 2/Vaje:1493059642.7861917
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaja 6/sprotna naloga 6.txt:1480411866.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/src/domace_naloge/StdDraw.java:1491675990.5216928
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (33).png:1466440042.0
@@ -1305,13 +1305,13 @@
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-urllib2.pdf:1485731646.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (46).png:1466440202.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/Adamovo potomstvo.pdf:1485636883.9195538
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015:1493059825.7008426
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18:1493059829.8746421
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015:1493059653.3618104
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 18:1493059655.1225605
 /1. letnik/2. semester/Podatkovne baze/Predavanja/PB2013.pdf:1489599478.0953104
 /1. letnik/1. semester/Programiranje 1/Advent/Day 16/.idea/modules.xml:1482167880.0
 /1. letnik/1. semester/Programiranje 1/usefull snippets.py:1485800371.8885014
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/DN09$2.class:1493056427.7253516
-/1. letnik/2. semester/Podatkovne baze/Kvizi/K01.png:1493063906.4514189
+/1. letnik/2. semester/Podatkovne baze/Kvizi/K01.png:1493063906.4499161
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/15.februar_dopoldan - Navodila.pdf:1485636000.3197217
 /1. letnik/2. semester/Raèunalniške komunikacije/RK.docx:1491842812.8385742
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11/.idea/misc.xml:1483717103.5868158
@@ -1320,28 +1320,28 @@
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/KVIZ 3 transportna plast.png:1491562560.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20/.idea/misc.xml:1482247199.876885
 /1. letnik/1. semester/Raèunalniška arhitektura/Snov/New Doc 2_1.jpg:1476810746.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 19:1493059812.8575172
+/1. letnik/1. semester/Programiranje 1/Advent/Day 19:1493059650.538946
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (99).png:1466440558.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11:1493059868.2091503
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 11:1493059663.052552
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/RocnaMeritev.class:1493056433.3737564
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14/t.py:1482446154.8257294
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 3/naloga3.py:1477461260.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/dolocila:1493059770.3576703
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/si/fri/dolocila:1493059639.7738347
 /1. letnik/2. semester/Programiranje 2/Izpiti/2 izpit/Izpit2.pdf:1468067878.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 2/.idea/modules.xml:1481476920.5644705
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5/main.py:1481825096.0
-/1. letnik/2. semester/Podatkovne baze/Vaje/Vaje 6.txt:1493063909.1561484
+/1. letnik/2. semester/Podatkovne baze/Vaje/Vaje 6.txt:1493063909.1405063
 /1. letnik/2. semester/Operacijski sistemi/Vaje/vaje5/druga.sh:1490869724.0896323
-/1. letnik/2. semester/Podatkovne baze/Vaje/VajePB2015 RelAlg II.pdf:1493063910.5802295
+/1. letnik/2. semester/Podatkovne baze/Vaje/VajePB2015 RelAlg II.pdf:1493063910.5424495
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2/.idea/Day 2.iml:1482962268.2737966
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN08.png:1493063895.2055976
-/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K01.png:1493063899.711221
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN08.png:1493063895.1899366
+/1. letnik/1. semester/Uvod v raèunalništvo/Kvizi/K01.png:1493063899.695648
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/manifest.mf:1489316680.7491636
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (38).png:1466440114.0
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke/6.txt:1480685838.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga/Dokumentacija domaèe naloge.docx:1483982863.3328657
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/PredavanjaRK-1.pdf:1491844078.539053
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15/.idea:1493059827.437812
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15/.idea:1493059654.723857
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/pravilno.txt:1480536948.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje1/JavaZakon.java:1465438156.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje2/Racunalo.java:1465438156.0
@@ -1356,12 +1356,12 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 4/main.py:1481489214.3335636
 /1. letnik/2. semester/Osnove verjetnosti in statistike/OVS-Resitve.pdf:1466921374.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (34).png:1466440066.0
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/private:1493059754.54528
-/1. letnik/2. semester/Programiranje 2/Domace_naloge:1493059756.3209238
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/private:1493059631.7051358
+/1. letnik/2. semester/Programiranje 2/Domace_naloge:1493059631.7910526
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (118).png:1466440668.0
-/1. letnik/1. semester/Matematika/Predavanja/10_integral.pdf:1493063896.8768308
+/1. letnik/1. semester/Matematika/Predavanja/10_integral.pdf:1493063896.861242
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (127).png:1466440686.0
-/1. letnik/1. semester/Matematika/Predavanja:1493063897.1460316
+/1. letnik/1. semester/Matematika/Predavanja:1493063897.1087058
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/domace_naloge/StdDraw.rs:1492974048.8360598
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/.idea/Vaje 8.iml:1481832884.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 16/.idea/workspace.xml:1482181790.0
@@ -1371,7 +1371,7 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 13/.idea/misc.xml:1482618167.8318262
 /1. letnik/1. semester/Matematika/Predavanja/07_funkcje_odvod.pdf:1493063896.644672
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/pisni izpit - 18.9.2012.docx:1372615480.0
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN07.png:1493063895.1430457
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN07.png:1493063895.1274197
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_popoldan.py:1485630568.2350073
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 10/.idea/Vaje 10.iml:1481890818.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Domaèa naloga/Domaèa naloga.rar:1483984644.5453742
@@ -1380,32 +1380,32 @@
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 13 - Objektno programiranje 2/.idea/misc.xml:1483719657.4418395
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 4/.idea/Naloga 4.iml:1477577092.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 20/.idea/modules.xml:1482247199.9128926
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3/.idea:1493059823.6600747
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 3/.idea:1493059652.901732
 /1. letnik/1. semester/Programiranje 1/Advent/Day 6/.idea/Day 6.iml:1481568134.0
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti:1493059884.6522422
-/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN05.png:1493063895.0427852
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti:1493059665.7432163
+/1. letnik/1. semester/Diskretne strukture/Domaèe naloge/DN05.png:1493063895.0271552
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/20100408-RKVBSezana-1-Kolokvij-B.pdf:1491562530.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 8/input.txt:1482064860.81
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje14/BufferedInputStreamTest.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Vaje/Vaje 3 - Omrežna plast.docx:1491900617.7655425
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori:1493059865.7556453
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 8 - Imenski prostori:1493059662.0531223
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/viri/s2.jpeg:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (18).png:1466439660.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 3/.idea/misc.xml:1481480016.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje5/Prirejanje.java:1465438156.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12:1493059761.3707132
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje12:1493059634.915012
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (96).png:1466440552.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr03ucinkovitostAlgoritmov.pdf:1493063900.250275
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr03ucinkovitostAlgoritmov.pdf:1493063900.2119865
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (41).png:1466440140.0
-/1. letnik/2. semester/Osnove verjetnosti in statistike:1493063903.8361387
+/1. letnik/2. semester/Osnove verjetnosti in statistike:1493063903.7559223
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_dopoldan - Navodila.pdf:1485634790.207428
 /1. letnik/1. semester/Diskretne strukture/Predavanja/pravilni_in_nepravilni_sklep.pdf:1476811716.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 7/input.txt:1481636368.0
-/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013:1493059883.4405975
+/1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2012_2013:1493059664.8363488
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 12 - Objektno programiranje/.idea/modules.xml:1482533297.6369991
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 22/main.py:1482671432.365983
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/configs:1493059754.4672585
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5:1493059870.4226532
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject/configs:1493059631.638193
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5:1493059663.6075008
 /1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-3O.pdf:1476811924.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/build/classes/StdDraw.class:1492974048.8385608
 /1. letnik/2. semester/Programiranje 2/Prosojnice/3-Operatorji.pdf:1468067804.0
@@ -1416,14 +1416,14 @@
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2015/Day 2/.idea/modules.xml:1482962170.3038375
 /1. letnik/2. semester/Programiranje 2/Izpiti/1 izpit/Mafija.java:1468067910.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 10 - Rekurzija/main.py:1481632498.515747
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/src:1493059754.5765295
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/src:1493059631.7588954
 /1. letnik/2. semester/Operacijski sistemi/Izpiti/izpitOS240615.pdf:1464781014.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/predavanja.pdf:1489600026.4595978
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Slovarji in množice/.idea/workspace.xml:1485620874.5446372
 /1. letnik/1. semester/Programiranje 1/Advent/Day 20/.idea/modules.xml:1482247200.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14:1493059827.0462768
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 14:1493059654.3668466
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 5/.idea/misc.xml:1481820698.0
-/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr12racunskiModeli.pdf:1493063902.1530888
+/1. letnik/1. semester/Uvod v raèunalništvo/Predavanja/uvr12racunskiModeli.pdf:1493063902.137461
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 9 - Oblikovanje nizov, delo z datotekami/Teèajna lista - navodila.pdf:1485636833.8845918
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje13/Drzave.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (28).png:1466440016.0
@@ -1432,36 +1432,36 @@
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15/BorderLayoutTest.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (51).png:1466440244.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (146).png:1466440722.0
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3/.idea:1493059868.4727955
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3/.idea:1493059663.4359832
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_18.jpg:1476811304.0
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15:1493059827.3686943
-/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7:1493059842.1833186
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 15:1493059654.568298
+/1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 7:1493059657.1346765
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (142).png:1466440716.0
 /1. letnik/2. semester/Programiranje 2/Domace_naloge/viri/planeti.txt:1492180335.9526882
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 6 - Slovarji in množice/Glasbena lestvica - navodila.pdf:1485636645.9488165
-/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke:1493059875.8986216
-/1. letnik/1. semester/Matematika/Domaèe naloge/DN03.png:1493063895.6747057
+/1. letnik/1. semester/Programiranje 1/Vaje/Vaje 8/datoteke:1493059664.3085418
+/1. letnik/1. semester/Matematika/Domaèe naloge/DN03.png:1493063895.6590805
 /1. letnik/1. semester/Programiranje 1/Advent/Day 20/main.py:1482248294.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 2/.idea/modules.xml:1481476922.0
 /1. letnik/2. semester/Programiranje 2/Prosojnice/6-Objektno programiranje.pdf:1468067812.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/GrafStdDraw.java:1465438156.0
 /1. letnik/2. semester/Raèunalniške komunikacije/RK/LDN DHCP in HTTP.png:1491562546.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (80).png:1466440360.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti:1493059860.482541
-/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject:1493059754.4828837
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti:1493059660.1809037
+/1. letnik/2. semester/Programiranje 2/Domace_naloge/nbproject:1493059631.638193
 /1. letnik/1. semester/Programiranje 1/Advent/Day 1/main.py:1481635250.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 20/.idea/misc.xml:1482247200.0
-/1. letnik/1. semester/Programiranje 1/Advent/Day 20/.idea:1493059817.4930553
+/1. letnik/1. semester/Programiranje 1/Advent/Day 20/.idea:1493059651.043141
 /1. letnik/1. semester/Programiranje 1/Vaje za izpit/Rešeni izpiti/2015_2016/29. januar_popoldan - Rešitve s komentarji.pdf:1485635015.782665
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 19/.idea/misc.xml:1482181789.895865
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN02.png:1493063917.4028602
-/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-8O.pdf:1493063899.2481813
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN02.png:1493063917.3807237
+/1. letnik/1. semester/Raèunalniška arhitektura/Predavanja/RA-8O.pdf:1493063899.2258909
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (74).png:1466440334.0
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/__pycache__/risar.cpython-35.pyc:1484908048.485567
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 3/.idea/modules.xml:1478261870.0
 /1. letnik/1. semester/Raèunalniška arhitektura/Vaje/Vaje 9/sprotne naloge 9.txt:1482263108.0980494
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje9/TestMath.java:1465438156.0
-/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea:1493059860.5258217
+/1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 11 - Boti/.idea:1493059660.3173172
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (155).png:1466440742.0
 /1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje15/VsebinaOkna.java:1465438156.0
 /1. letnik/2. semester/Osnove verjetnosti in statistike/kvizko/Posnetek zaslona (58).png:1466440274.0
@@ -1470,14 +1470,14 @@
 /1. letnik/1. semester/Programiranje 1/docs-pdf/installing.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/docs-pdf/howto-logging.pdf:1485731646.0
 /1. letnik/1. semester/Programiranje 1/Advent of Code 2016/Day 6/.idea/modules.xml:1481568047.5976906
-/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05:1493059783.2475116
+/1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN05:1493059643.442974
 /1. letnik/1. semester/Diskretne strukture/Snov/New Doc_19.jpg:1476811308.0
 /1. letnik/2. semester/Programiranje 2/Izpiti/1 izpit/Miska.java:1468067936.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 18/.idea/misc.xml:1482164178.0
 /1. letnik/2. semester/Programiranje 2/Prosojnice/10-Okna.pdf:1468067822.0
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje2:1493059764.2323706
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje2:1493059637.0367818
 /1. letnik/1. semester/Programiranje 1/Domaèe naloge/Naloga 14 - Risanje/.idea/workspace.xml:1485611833.2902706
-/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11:1493059761.038642
+/1. letnik/2. semester/Programiranje 2/Koda s predavanj/src/predavanje11:1493059634.3147893
 /1. letnik/1. semester/Programiranje 1/Vaje/Vaje 9/vaje.py:1481838190.0
 /1. letnik/1. semester/Programiranje 1/Advent/Day 3/.idea/workspace.xml:1481482444.0
 /1. letnik/2. semester/Raèunalniške komunikacije/Domaèe naloge/LDN06/.idea/modules.xml:1492501911.4407678

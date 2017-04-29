@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>783</width>
-    <height>518</height>
+    <width>784</width>
+    <height>538</height>
    </rect>
   </property>
   <property name="font">
@@ -19,50 +19,67 @@
    <string>MainWindow</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background: #202020;</string>
-  </property>
-  <widget class="QWidget" name="centralwidget">
-   <widget class="QListWidget" name="locationsList">
-    <property name="geometry">
-     <rect>
-      <x>0</x>
-      <y>40</y>
-      <width>211</width>
-      <height>431</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>Segoe UI</family>
-      <pointsize>9</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="toolTip">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QListWidget {
-	background: #181818;
-	color: #ababab;
-}
-QListWidget::item {
-	margin: 8px;
+   <string notr="true">QWidget {
+	background: #3C3F41;
 }
 
-QListWidget::item:hover, QListWidget::item:selected {
-	color: #f0f0f0;
-}</string>
-    </property>
-   </widget>
+QScrollBar:vertical {
+      background: #2B2B2B;
+      width: 8px;
+      margin: 22px 0 22px 0;
+  }
+
+QScrollBar:vertical:hover {
+      width: 10px;
+      margin: 22px 0 22px 0;
+  }
+
+  QScrollBar::handle:vertical {
+	  border-radius: 4px;
+      background: #383838;
+      min-height: 20px;
+	
+  }
+
+QScrollBar::handle:vertical:hover {
+      background: #555;
+      min-height: 20px;
+  }
+
+  QScrollBar::add-line:vertical {
+      background: #282828;
+      height: 1px;
+      subcontrol-position: bottom;
+      subcontrol-origin: margin;
+  }
+
+  QScrollBar::sub-line:vertical {
+      background: #282828;
+      height: 1px;
+      subcontrol-position: top;
+      subcontrol-origin: margin;
+  }
+  QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+      width: 1px;
+      height: 1px;
+      background: #333;
+  }
+
+  QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+      background: none;
+  }</string>
+  </property>
+  <property name="tabShape">
+   <enum>QTabWidget::Rounded</enum>
+  </property>
+  <widget class="QWidget" name="centralwidget">
    <widget class="QTabWidget" name="tabWidget">
     <property name="geometry">
      <rect>
       <x>210</x>
       <y>40</y>
       <width>571</width>
-      <height>431</height>
+      <height>457</height>
      </rect>
     </property>
     <property name="font">
@@ -75,7 +92,7 @@ QListWidget::item:hover, QListWidget::item:selected {
     </property>
     <property name="styleSheet">
      <string notr="true">QTabWidget::pane { /* The tab widget frame */
-    border: 1px solid #666;
+    border: 2px solid #333;
 }
 
 
@@ -93,13 +110,13 @@ QTabBar::tab {
 }
 
 QTabBar::tab:selected, QTabBar::tab:hover {
-    background: #1F1F1F;
-	color: #f0f0f0;
+    background: #3C3E3F;
+	color: #ababab;
 }
 
 QTabBar::tab:selected {
-    border-color: #9B9B9B;
-    border-bottom-color: #C2C7CB; /* same as pane color */
+    border: 2px solid #333;
+    border-bottom-color: #444; /* same as pane color */
 }
 
 QTabBar::tab:!selected {
@@ -119,27 +136,41 @@ QTabBar::tab:!selected {
      <widget class="QListWidget" name="contentList">
       <property name="geometry">
        <rect>
-        <x>6</x>
-        <y>50</y>
+        <x>8</x>
+        <y>53</y>
         <width>561</width>
-        <height>221</height>
+        <height>231</height>
        </rect>
       </property>
       <property name="font">
        <font>
         <family>Segoe UI</family>
         <pointsize>9</pointsize>
-        <weight>75</weight>
-        <bold>true</bold>
+        <weight>50</weight>
+        <bold>false</bold>
        </font>
       </property>
       <property name="styleSheet">
-       <string notr="true">background: #181818;
-color: #e0e0e0;
-
+       <string notr="true">QListWidget {
+	background: #21252B;
+	color: #e0e0e0;
+	border: 1px solid #444;
+}
 QListWidget::item {
-	margin: 8px;
-}</string>
+	margin: 6px;
+	padding-bottom:4px;
+	border-bottom: 2px solid #444;
+}
+
+QListWidget::item:hover, QListWidget::item:selected {
+	color: #f0f0f0;
+}
+
+
+
+
+
+</string>
       </property>
       <property name="layoutMode">
        <enum>QListView::SinglePass</enum>
@@ -160,40 +191,41 @@ QListWidget::item {
      <widget class="QTextEdit" name="consoleEdit">
       <property name="geometry">
        <rect>
-        <x>6</x>
-        <y>280</y>
+        <x>8</x>
+        <y>296</y>
         <width>561</width>
-        <height>121</height>
+        <height>131</height>
        </rect>
       </property>
       <property name="font">
        <font>
-        <family>Segoe UI</family>
-        <pointsize>9</pointsize>
+        <family>Consolas</family>
+        <pointsize>10</pointsize>
         <weight>50</weight>
+        <italic>false</italic>
         <bold>false</bold>
         <strikeout>false</strikeout>
         <kerning>true</kerning>
        </font>
       </property>
       <property name="styleSheet">
-       <string notr="true">background: #181818;
-color: #cdcdcd;</string>
+       <string notr="true">background: #21252B;
+color: #c0c0c0;
+border: 1px solid #444;
+padding-left: 4px;</string>
       </property>
       <property name="html">
        <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:600;&quot;&gt;okokok&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:600;&quot;&gt;jjjjjjj&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:600;&quot;&gt;hhhh&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Consolas'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
       </property>
      </widget>
      <widget class="QFrame" name="frame">
       <property name="geometry">
        <rect>
-        <x>10</x>
+        <x>9</x>
         <y>10</y>
         <width>561</width>
         <height>31</height>
@@ -208,7 +240,7 @@ p, li { white-space: pre-wrap; }
        </font>
       </property>
       <property name="styleSheet">
-       <string notr="true">background: #202020;
+       <string notr="true">background: #21252B;
 color: #cdcdcd;</string>
       </property>
       <property name="frameShape">
@@ -221,7 +253,7 @@ color: #cdcdcd;</string>
        <property name="geometry">
         <rect>
          <x>10</x>
-         <y>10</y>
+         <y>8</y>
          <width>71</width>
          <height>16</height>
         </rect>
@@ -235,13 +267,16 @@ color: #cdcdcd;</string>
         </font>
        </property>
        <property name="text">
-        <string>Content</string>
+        <string>Changes</string>
        </property>
       </widget>
-      <widget class="QPushButton" name="addBtn">
+      <widget class="QPushButton" name="checkAllBtn">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
        <property name="geometry">
         <rect>
-         <x>388</x>
+         <x>480</x>
          <y>3</y>
          <width>75</width>
          <height>23</height>
@@ -261,31 +296,259 @@ color: #cdcdcd;</string>
        <property name="styleSheet">
         <string notr="true">QPushButton{
 	color:  #ababab;
-	background: #202020;
+	background: #383B3D;
 	border-radius: 2px;
-	border: 1px solid #444;
+	border: 1px solid #202020;
 	padding:4px;
 }
 QPushButton:hover {
 	color: #f0f0f0;
-	background: #282828;
+	background: #3C3F41;
+}
+
+QPushButton:disabled {
+	background-color:#21252B;
+	color: #666;
+	border: 1px solid #333;
 }</string>
        </property>
        <property name="text">
-        <string>Add all</string>
+        <string>Uncheck all</string>
        </property>
        <property name="flat">
         <bool>true</bool>
        </property>
       </widget>
-      <widget class="QPushButton" name="revertBtn">
-       <property name="geometry">
-        <rect>
-         <x>470</x>
-         <y>5</y>
-         <width>81</width>
-         <height>20</height>
-        </rect>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QFrame" name="frame_2">
+    <property name="geometry">
+     <rect>
+      <x>1</x>
+      <y>40</y>
+      <width>211</width>
+      <height>461</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background: #3C3F41;</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QListWidget" name="destinationsList">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>245</y>
+       <width>211</width>
+       <height>211</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Segoe UI</family>
+       <pointsize>9</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
+      </font>
+     </property>
+     <property name="toolTip">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QListWidget {
+	background: #21252B;
+	color: #ababab;
+	border: 2px solid #333;
+	padding-left: 8px;
+}
+QListWidget::item {
+	margin: 8px;
+	margin-left:0px;
+}
+
+QListWidget::item:hover, QListWidget::item:selected {
+	color: #f0f0f0;
+}</string>
+     </property>
+    </widget>
+    <widget class="QListWidget" name="locationsList">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>211</width>
+       <height>231</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>Segoe UI</family>
+       <pointsize>9</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
+      </font>
+     </property>
+     <property name="toolTip">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QListWidget {
+	background: #21252B;
+	color: #ababab;
+	border: 2px solid #333;
+	padding-left: 8px;
+}
+QListWidget::item {
+	margin: 8px;
+	padding-left: 20px;
+	font-weight: bold;
+	
+}
+
+QListWidget::item:hover, QListWidget::item:selected {
+	color: #f0f0f0;
+	font-weight: bold;
+}</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>363</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="backupBtn">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="font">
+        <font>
+         <family>Segoe UI</family>
+         <pointsize>9</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton{
+	color:  #ababab;
+	background: #383B3D;
+	border-radius: 2px;
+	border: 1px solid #202020;
+	padding:4px;
+}
+QPushButton:hover {
+	color: #f0f0f0;
+	background: #3C3F41;
+}
+
+QPushButton:disabled {
+	background-color:#3C3F41;
+	color: #666;
+	border: 1px solid #444;
+}</string>
+       </property>
+       <property name="text">
+        <string>Backup</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="refreshBtn">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="font">
+        <font>
+         <family>Segoe UI</family>
+         <pointsize>9</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton{
+	color:  #ababab;
+	background: #383B3D;
+	border-radius: 2px;
+	border: 1px solid #202020;
+	padding:4px;
+}
+QPushButton:hover {
+	color: #f0f0f0;
+	background: #3C3F41;
+}
+
+QPushButton:disabled {
+	background-color:#3C3F41;
+	color: #666;
+	border: 1px solid #444;
+}</string>
+       </property>
+       <property name="text">
+        <string>Refresh</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="servicesBtn">
+       <property name="font">
+        <font>
+         <family>Segoe UI</family>
+         <pointsize>9</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton{
+	color:  #ababab;
+	background: #383B3D;
+	border-radius: 2px;
+	border: 1px solid #202020;
+	padding:4px;
+}
+QPushButton:hover {
+	color: #f0f0f0;
+	background: #3C3F41;
+}
+
+QPushButton:disabled {
+	background-color:#3C3F41;
+	color: #666;
+	border: 1px solid #444;
+}</string>
+       </property>
+       <property name="text">
+        <string>Run service</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="saveHistoryBtn">
+       <property name="enabled">
+        <bool>false</bool>
        </property>
        <property name="font">
         <font>
@@ -301,176 +564,74 @@ QPushButton:hover {
        <property name="styleSheet">
         <string notr="true">QPushButton{
 	color:  #ababab;
-	background: #202020;
+	background: #383B3D;
 	border-radius: 2px;
-	border: 1px solid #444;
+	border: 1px solid #202020;
 	padding:4px;
 }
 QPushButton:hover {
 	color: #f0f0f0;
-	background: #282828;
+	background: #3C3F41;
+}
+
+QPushButton:disabled {
+	background-color:#3C3F41;
+	color: #666;
+	border: 1px solid #444;
 }</string>
        </property>
        <property name="text">
-        <string>Revert all</string>
+        <string>Save history</string>
        </property>
        <property name="flat">
         <bool>true</bool>
        </property>
       </widget>
-     </widget>
-    </widget>
-   </widget>
-   <widget class="QPushButton" name="backupBtn">
-    <property name="geometry">
-     <rect>
-      <x>0</x>
-      <y>10</y>
-      <width>75</width>
-      <height>23</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>Segoe UI</family>
-      <pointsize>9</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QPushButton{
+     </item>
+     <item>
+      <widget class="QPushButton" name="clearHistoryBtn">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="font">
+        <font>
+         <family>Segoe UI</family>
+         <pointsize>9</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="autoFillBackground">
+        <bool>false</bool>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton{
 	color:  #ababab;
-	background: #202020;
+	background: #383B3D;
 	border-radius: 2px;
-	border: 1px solid #444;
+	border: 1px solid #202020;
 	padding:4px;
 }
 QPushButton:hover {
 	color: #f0f0f0;
-	background: #282828;
-}</string>
-    </property>
-    <property name="text">
-     <string>Backup</string>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="refreshBtn">
-    <property name="geometry">
-     <rect>
-      <x>80</x>
-      <y>10</y>
-      <width>75</width>
-      <height>23</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>Segoe UI</family>
-      <pointsize>9</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QPushButton{
-	color:  #ababab;
-	background: #202020;
-	border-radius: 2px;
-	border: 1px solid #444;
-	padding:4px;
+	background: #3C3F41;
 }
-QPushButton:hover {
-	color: #f0f0f0;
-	background: #282828;
-}</string>
-    </property>
-    <property name="text">
-     <string>Refresh</string>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="servicesBtn">
-    <property name="geometry">
-     <rect>
-      <x>160</x>
-      <y>10</y>
-      <width>75</width>
-      <height>23</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>Segoe UI</family>
-      <pointsize>9</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QPushButton{
-	color:  #ababab;
-	background: #202020;
-	border-radius: 2px;
+
+QPushButton:disabled {
+	background-color:#3C3F41;
+	color: #666;
 	border: 1px solid #444;
-	padding:4px;
-}
-QPushButton:hover {
-	color: #f0f0f0;
-	background: #282828;
 }</string>
-    </property>
-    <property name="text">
-     <string>Run service</string>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="historyBtn">
-    <property name="geometry">
-     <rect>
-      <x>240</x>
-      <y>10</y>
-      <width>81</width>
-      <height>23</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <family>Segoe UI</family>
-      <pointsize>9</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">QPushButton{
-	color:  #ababab;
-	background: #202020;
-	border-radius: 2px;
-	border: 1px solid #444;
-	padding:4px;
-}
-QPushButton:hover {
-	color: #f0f0f0;
-	background: #282828;
-}</string>
-    </property>
-    <property name="text">
-     <string>Clear history</string>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
+       </property>
+       <property name="text">
+        <string>Clear history</string>
+       </property>
+       <property name="flat">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+    </layout>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -478,7 +639,7 @@ QPushButton:hover {
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>783</width>
+     <width>784</width>
      <height>21</height>
     </rect>
    </property>
