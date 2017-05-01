@@ -106,9 +106,5 @@ class BackupData:
         return m.hexdigest()
 
 
-    def sync_data(self):
-        for service in self.sync_services:
-            self.console_output.append("\nSyncing with {} ...".format(service))
-            subprocess.call([self.sync_services[service]])
-            self.console_output.append("Sync completed.\n")
-            self.console_output.append("Syncing has finished.\n")
+    def sync_data(self, service):
+        subprocess.call([self.sync_services[service]])

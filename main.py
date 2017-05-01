@@ -1,4 +1,6 @@
 ﻿import sys
+import threading
+
 from PyQt5 import QtGui, uic, QtWidgets, QtCore
 from builtins import set
 import random
@@ -6,7 +8,7 @@ from multiprocessing import Process
 
 import data
 import os
-
+from worker import *
 class MyWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super(MyWindow, self).__init__()
@@ -16,9 +18,34 @@ class MyWindow(QtWidgets.QMainWindow):
         self.locationsList.doubleClicked.connect(self.locationsListClick)
         self.saveHistoryBtn.clicked.connect(self.saveHistory)
         self.clearHistoryBtn.clicked.connect(self.clearHistory)
+        self.servicesBtn.clicked.connect(self.startService)
         self.refreshBtn.clicked.connect(self.refreshContent)
         self.backupBtn.clicked.connect(self.backupContent)
         self.checkAllBtn.clicked.connect(self.checkAll)
+
+        self.loadOnStartup()
+
+
+    def loadOnStartup(self):
+        self.selected_item = "Računalnik"
+
+        self.initButtons()
+        if os.path.exists(self.locations[self.selected_item]):
+            self.tabWidget.setTabText(0, self.selected_item)
+            self.setupContentList(self.locations[self.selected_item])
+            self.setupDestinationsList()
+        else:
+            self.consoleEdit.append("<span style=\"  color:#DB5652;\" >[Error] Directory doesn't exist.\n</span>")
+
+        self.servicesBtn.setEnabled(self.selected_item in self.backup.sync_services)
+
+
+    def initButtons(self):
+        self.backupBtn.setEnabled(True)
+        self.refreshBtn.setEnabled(True)
+        self.saveHistoryBtn.setEnabled(True)
+        self.clearHistoryBtn.setEnabled(True)
+        self.checkAllBtn.setEnabled(True)
 
     def setupLocationsList(self):
         self.locations = {}
@@ -48,6 +75,7 @@ class MyWindow(QtWidgets.QMainWindow):
         self.backup = data.BackupData(location)
         self.backup.get_content()
         self.contentList.clear()
+        self.changesLabel.setText("Changes ("+str(len(self.backup.content_to_add)+len(self.backup.content_to_delete)+len(self.backup.content_to_change))+")")
         for path in self.backup.content_to_add:
             item = QtWidgets.QListWidgetItem(" +  "+path)
             item.setForeground(QtGui.QColor('#44bd51'))
@@ -69,11 +97,8 @@ class MyWindow(QtWidgets.QMainWindow):
 
     def locationsListClick(self):
         self.selected_item = self.locationsList.currentItem().text()
-        self.backupBtn.setEnabled(True)
-        self.refreshBtn.setEnabled(True)
-        self.saveHistoryBtn.setEnabled(True)
-        self.clearHistoryBtn.setEnabled(True)
-        self.checkAllBtn.setEnabled(True)
+        self.initButtons()
+
         if os.path.exists(self.locations[self.selected_item]):
             self.tabWidget.setTabText(0, self.selected_item)
             self.setupContentList(self.locations[self.selected_item])
@@ -81,6 +106,7 @@ class MyWindow(QtWidgets.QMainWindow):
         else:
             self.consoleEdit.append("<span style=\"  color:#DB5652;\" >[Error] Directory doesn't exist.\n</span>")
 
+        self.servicesBtn.setEnabled(self.selected_item in self.backup.sync_services)
 
     def saveHistory(self):
         self.backup.saveLog()
@@ -98,6 +124,16 @@ class MyWindow(QtWidgets.QMainWindow):
     def refreshContent(self):
         self.backup.get_content()
         self.locationsListClick()
+
+    def startService(self):
+        self.consoleEdit.append("\nStarting {} ...".format(self.selected_item))
+
+        self.myLongTask = TaskThread(data=self.backup.sync_services[self.selected_item])
+        self.myLongTask.start() #start Google Drive, Dropbox in a seperate thread to prevent UI blocking
+
+        self.consoleEdit.append("{} is now syncing changes ...\n".format(self.selected_item))
+
+
 
 
     def backupContent(self):

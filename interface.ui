@@ -16,7 +16,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Backup</string>
   </property>
   <property name="styleSheet">
    <string notr="true">QWidget {
@@ -249,7 +249,7 @@ color: #cdcdcd;</string>
       <property name="frameShadow">
        <enum>QFrame::Raised</enum>
       </property>
-      <widget class="QLabel" name="label">
+      <widget class="QLabel" name="changesLabel">
        <property name="geometry">
         <rect>
          <x>10</x>
@@ -418,10 +418,10 @@ QListWidget::item:hover, QListWidget::item:selected {
      </property>
     </widget>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>0</x>
+      <x>13</x>
       <y>10</y>
       <width>363</width>
       <height>27</height>
@@ -510,6 +510,9 @@ QPushButton:disabled {
      </item>
      <item>
       <widget class="QPushButton" name="servicesBtn">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
        <property name="font">
         <font>
          <family>Segoe UI</family>
