@@ -15,3 +15,7 @@ class TaskThread(QtCore.QThread):
 
     def run(self):                  #starting Google Drive, Dropbox in seperate thread
         subprocess.call([self.data])
+
+
+    def openExplorer(self):
+        subprocess.Popen(r'explorer /select,"'+self.data+'"')

@@ -24,6 +24,21 @@ class MyWindow(QtWidgets.QMainWindow):
         self.checkAllBtn.clicked.connect(self.checkAll)
 
         self.loadOnStartup()
+        self.contentList.setContextMenuPolicy(QtCore.Qt.CustomContextMenu)
+        self.contentList.customContextMenuRequested.connect(self.listItemRightClicked)
+
+    def listItemRightClicked(self, QPos):
+        self.listMenu = QtWidgets.QMenu()
+        self.listMenu.setStyleSheet("selection-background-color: #1A60A4; background-color: #21252B; color: #cdcdcd; border: 1px solid #444;")
+        menu_item = self.listMenu.addAction("Open in explorer")
+        menu_item.triggered.connect(self.menuItemClicked)
+        parentPosition = self.contentList.mapToGlobal(QtCore.QPoint(0, 0))
+        self.listMenu.move(parentPosition + QPos)
+        self.listMenu.show()
+
+    def menuItemClicked(self):
+        rel_path = str(self.contentList.currentItem().text()).replace(" +  ", "").replace(" o  ", "").replace(" -  ", "")
+        os.startfile(r'{}'.format(os.path.dirname(self.locations[self.selected_item]+rel_path)))
 
 
     def loadOnStartup(self):
@@ -123,7 +138,12 @@ class MyWindow(QtWidgets.QMainWindow):
 
     def refreshContent(self):
         self.backup.get_content()
-        self.locationsListClick()
+        if os.path.exists(self.locations[self.selected_item]):
+            self.tabWidget.setTabText(0, self.selected_item)
+            self.setupContentList(self.locations[self.selected_item])
+            self.setupDestinationsList()
+        else:
+            self.consoleEdit.append("<span style=\"  color:#DB5652;\" >[Error] Directory doesn't exist.\n</span>")
 
     def startService(self):
         self.consoleEdit.append("\nStarting {} ...".format(self.selected_item))
